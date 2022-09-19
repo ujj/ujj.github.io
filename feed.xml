@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-19T19:31:02+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">The value of procrastination</title><link href="http://localhost:4000/the-value-of-procrastination/" rel="alternate" type="text/html" title="The value of procrastination" /><published>2022-09-08T14:57:20+05:30</published><updated>2022-09-08T14:57:20+05:30</updated><id>http://localhost:4000/the-value-of-procrastination</id><content type="html" xml:base="http://localhost:4000/the-value-of-procrastination/"><![CDATA[<p>We recently did our company offsite in the beautiful town of Mussoorie, Northern India (view from our balcony below) and when we were arranging the logistics, I bumped into an interesting scenario. We are a remote team and people were coming from 10 different cities. We wanted people to come in within a window of time, which means not just before a specific time but also after a specific time. There are many reasons why we’d want this but the simple ones are 1. we don’t spend extra on their stay or travel and 2. not have them be inconvenienced of waiting alone for others. This is a simple problem but it highlights an important aspect of life, that it is sometimes imperative to do a specific thing just at the right time and not earlier.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/09/DYN00937-1160x773.jpeg" alt="mussoorie you beauty" srcset="    /assets/resized/DYN00937-1160x773-320x213.jpeg 320w,    /assets/resized/DYN00937-1160x773-480x320.jpeg 480w,    /assets/resized/DYN00937-1160x773-800x533.jpeg 800w, /wp-content/uploads/2022/09/DYN00937-1160x773.jpeg 1160w" /></p>
+
+<p><a href="https://www.amazon.com/Wait-Science-Delay-Frank-Partnoy/dp/1610392477/ref=sr_1_1?crid=2Z7DP7ICT63VA&amp;keywords=wait+by+frank+partnoy&amp;qid=1662629397&amp;sprefix=w%2Caps%2C1981&amp;sr=8-1">Frank Partnoy’s Wait</a> is an intriguing book that delves into the idea of how procrastination is a boon (when used correctly) and our natural inclination to sit on decisions may actually be an evolutionary feature and not a bug. It also has some practical insights on how simple techniques can wrap our sense of time and prime us into doing things slowly or faster. For example, we can be primed into cramming your lessons faster by simply being in the vicinity of popular fast food brands’ logos 🤯</p>
+
+<h3 id="slow-reactions-in-a-fast-world">Slow reactions in a fast world</h3>
+
+<p>Our fast thinking system 1 derails a lot of our careful analysis. By our very nature we want to conserve energy and so following rudimentary heuristics (like if this scares my sense of self, I will defend my thoughts) make us avoid spending cycles considering every scenario properly. We make broad generalisations and assumptions by having a tiny exposure to an event or situation (thin slice). This can not only lead to bad decisions but may even ignite unconscious racism.</p>
+
+<blockquote>
+  <p>“Don’t just do something, stand there”</p>
+</blockquote>
+
+<p>This was a funny exchange with one of the doctors quoted in the book to make the point that when you’re out of your depth, not immediately doing anything and taking the time to process is the best course of action. The book also describes studies on cricketers and how delayed shot selections often lead to better performance over the years. In professional sports and in life, it makes sense to delay actions as long as is possible.</p>
+
+<p>Whenever we find ourselves in a time bound situation, we must</p>
+
+<ol>
+  <li>Assess how much time we have at our disposal</li>
+  <li>Delay the final decision to as long as is possible</li>
+</ol>
+
+<h3 id="structure-of-a-delayed-reaction">Structure of a delayed reaction</h3>
+
+<p>Popularised by Air Force Colonel John Boyd, the <a href="https://en.wikipedia.org/wiki/OODA_loop">OODA loop</a> is how we may want to react to scenarios in timelines that span minutes.</p>
+
+<ol>
+  <li>Observe – gather info</li>
+  <li>Orient – process it and put it in perspective</li>
+  <li>Decide – what to do</li>
+  <li>Act – execute</li>
+</ol>
+
+<p>The same steps can however be applicable to split second decisions too. Thin slicing and knee-jerk reactions overrides our decision making apparatus and so this conscious OODA style slow reacting need practice.</p>
+
+<h3 id="timing-is-everything">Timing is everything</h3>
+
+<p>The book has an absorbing section dedicated to how comedians use timing to great effect. They delay and delay and delay the punch line for its optimal impact. This is true for general speech as well where delays can help in emphasising specific points.</p>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class="embed-container">    <iframe title="YouTube video player" width="640" height="390" src="//www.youtube.com/embed/aZwIYjOYr44" frameborder="0" allowfullscreen=""></iframe></div>
+
+<p>Another important aspect of life where timing is of the essence is apologies. There is a Goldilocks zone of apologising, meaning you can apologise both too quickly and too late. Too quickly and people think you don’t mean it and don’t regret your actions. Too late and it’s too late to repair the damage.</p>
+
+<h3 id="time-bias">Time bias</h3>
+
+<p>When we value small gratifications now over big ones down the line (think: <a href="https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment#:~:text=The%20Stanford%20marshmallow%20experiment%20was,for%20a%20period%20of%20time.">marshmallow experiments</a>), we are suffering from a kind of time bias. This isn’t a personality quirk, it is an evolutionary coding.</p>
+
+<p>A negative rate of return is applied on things acquired over time, for ex evaluating how much an amount of money is worth 10 years from now, in today’s terms. A 5% discount rate means something will be less valuable to us by x/ 1.05^n, n years down the line. This is exponential discounting where the discount rate remains the same.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/09/hyperbolic.png" alt="hyperbolic discounting" srcset="    /assets/resized/hyperbolic-320x241.png 320w,    /assets/resized/hyperbolic-480x362.png 480w,    /assets/resized/hyperbolic-800x603.png 800w, /wp-content/uploads/2022/09/hyperbolic.png 1090w" /></p>
+
+<p>Many psychological studies have demonstrated deviations in instinctive preference from the constant discount rate. As we get older we prefer instant gratification and so the discounts become hyperbolic i.e. the farther the payoff in the future, the higher the mental discounting.</p>
+
+<p>This can also be thought of as a type of procrastination. When we have high discount rates and what we are dealing with is a cost (like spending time to write a paper) -&gt; we procrastinate. When what we are dealing with is a benefit (having another donut) -&gt; we are acting impatiently.</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Human Psychology" /><category term="Lifehacks" /><summary type="html"><![CDATA[We recently did our company offsite in the beautiful town of Mussoorie, Northern India (view from our balcony below) and when we were arranging the logistics, I bumped into an interesting scenario. We are a remote team and people were coming from 10 different cities. We wanted people to come in within a window of time, which means not just before a specific time but also after a specific time. There are many reasons why we’d want this but the simple ones are 1. we don’t spend extra on their stay or travel and 2. not have them be inconvenienced of waiting alone for others. This is a simple problem but it highlights an important aspect of life, that it is sometimes imperative to do a specific thing just at the right time and not earlier.]]></summary></entry><entry><title type="html">Where good ideas come from</title><link href="http://localhost:4000/where-good-ideas-come-from/" rel="alternate" type="text/html" title="Where good ideas come from" /><published>2022-08-17T13:03:51+05:30</published><updated>2022-08-17T13:03:51+05:30</updated><id>http://localhost:4000/where-good-ideas-come-from</id><content type="html" xml:base="http://localhost:4000/where-good-ideas-come-from/"><![CDATA[<p>In his remarkable book <a href="https://www.amazon.com/Where-Good-Ideas-Come-From-audiobook/dp/B0045BXDAO/ref=sr_1_1?crid=5E941XBSFJ7F&amp;keywords=where+good+ideas+come+from&amp;qid=1660721659&amp;sprefix=wher%2Caps%2C4011&amp;sr=8-1">Where Good Ideas Come From</a>, Steven Johnson, illustrates the important aspects of creating an environment that can lead to birth of good ideas. He uses historical examples to highlight how specific features in the environment, directly led to the rise of world changing ideas like the Gutenberg press, the omnipresent post-it note and many life saving medical innovations. Before we dive into them, it would be best to understand the concept of Fractal patterns.</p>
+
+<h5 id="fractal-patterns">Fractal patterns</h5>
+
+<p>A fractal is a Mathematical curve that is self repeating. We can think of these as patterns that are infinitely repeating as we zoom in or out of anything (see image below).</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/08/fractal.jpeg" alt="Fractal – image courtesy Pinterest.com " srcset="    /assets/resized/fractal-320x240.jpeg 320w,    /assets/resized/fractal-480x360.jpeg 480w,    /assets/resized/fractal-800x600.jpeg 800w, /wp-content/uploads/2022/08/fractal.jpeg 1024w" /></p>
+
+<p>Most innovation patterns are fractal in nature, i.e. they appear both at super high zoomed out levels, for ex our mega cities and at micro levels, eg our cellular structure. The reason this is probably true is because innovation, much like cellular reproduction depends on similar factors like exponential growth, adaptations, survival, etc, which in turn are affected by similar conditions.</p>
+
+<h5 id="the-adjacent-possible">The Adjacent Possible</h5>
+
+<p>First order innovations or evolutions can often lead to many times more innovative and often unanticipated creations many cycles later. The primordial soup led to the birth of organic life but it began with basic chemicals like Carbon Dioxide, Methane, Ammonia and some amino acids. Formaldehyde was a first order innovation and millions of cycles/years later we had humans walking the earth.</p>
+
+<p>The adjacent possible is often a tiny improvement or evolution that is not remarkable on its own but opens up a new pathway of thinking about things.</p>
+
+<blockquote>
+  <p>He took a machine designed to get people drunk and turned it into an engine for mass communication</p>
+</blockquote>
+
+<h5 id="slow-hunches">Slow Hunches</h5>
+
+<p>Simply put, slow hunches, as the name suggests, are ideas taking shape in our subconscious, slowly. This concept challenges how we think about Eureka moments. Johnson says ideas don’t come to us in flashes but develop in our subconscious slowly. There’s usually no one single Eureka moment; or to say it differently, the Eureka moment takes a long time to build.</p>
+
+<p>The author gives many examples in which ideas didn’t appear fully formed but remained hazy for quite a long period of time, continually alluding to something important. The example that has stayed with me is that of the famous pre-911 Phoenix memos. In the memos an FBI analyst described his hunch of possible terror threats related to aviation, after having come across news of many flight schools reporting suspicious behaviours by foreign nationals. The memo was shot down as being vague and speculative. A few months later, 911 happened.</p>
+
+<p>Environments that want to support innovation need to be slow, support hypothesising, conjecturing, making errors and should not focus on instant gratification. They should also be open enough that slow hunches forming in different individuals can collide amongst each other.</p>
+
+<h5 id="liquid-networks">Liquid Networks</h5>
+
+<p>True to the fractal nature of innovation, liquid networks are found everywhere in nature. Carbon atoms alone couldn’t have made life possible. They needed the primordial soup to enable free combinations of various atoms and molecules. Similarly, our brain is a dense network of neurons that support trillions on synaptic connections, allowing us to explore the intermingling of ideas.</p>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class="embed-container">    <iframe title="YouTube video player" width="640" height="390" src="//www.youtube.com/embed/pNeaF0ypnCQ" frameborder="0" allowfullscreen=""></iframe></div>
+
+<p>Open exchange of ideas is almost directly linked to innovation. It is thus a matter of no wonder that almost all software today in the world is at least in some sense dependent on the work of open source communities that build over and improve existing open source code. The open nature of innovation is often challenged with the question of incentives, i.e. if every innovation is open and available for copying/modification, what incentive is there to innovate. The answer is it’s a tradeoff.</p>
+
+<p>The more open an innovation is, the more likely it is to spread and adapt and evolve. The more closed, patented or walled an innovation is, the less is its impact on producing further innovation. True innovation lies in the delicate balance of free markets and university style academic research. Neither of them stand alone on their own and neither can claim to bring the promised goodness of the said innovation, without the other.</p>
+
+<p>One of the more important aspects of open networks, or rather what supports it, is written notes. Writing down our learnings or experiences is a great way to support both germination of ones own slow hunches, and allowing others to explore the adjacent possible of what we’re dealing with. One of the more prolific note keepers known to us was Charles Darwin whose field notes inspired the theory of evolution. <a href="https://fs.blog/john-locke-common-place-book/#:~:text=The%20object%20to%20Locke's%20%E2%80%9CCommon,initial%20letter%20and%20first%20vowel.">John Locke’s commonplace books</a> were another innovative note keeping technique that made for totally different subjects to be entered in the same page, or succession of pages, allowing easy intermingling of ideas and sparking possible adaptations.</p>
+
+<p><em>If you’re interested in note keeping, I use Obsidian and have written about <a href="https://infermuse.com/obsidian-workflow-for-book-notes/">organising book notes</a> and <a href="https://infermuse.com/daily-planning-with-momentum-devices/">daily planning workflow</a>.</em></p>
+
+<h5 id="errors-lead-to-innovations">Errors lead to innovations</h5>
+
+<p>Just as DNA copying is error prone and leads to interesting innovations and changes, some noise in the environment can act as a catalyst for germination of new ideas. There are countless examples of errors leading upto groundbreaking discoveries. The famous one is that of the triode (vacuum tube) which Lee De Forest invented mistaking it to be something totally different. He was thinking he had discovered gas powered signal tracking but it eventually led to amplification of electrical signal and something that powers almost all our electronic gadgets. An environment that does not shoot down erroneous conclusions stands to gain from the scientific insights that come from failure.</p>
+
+<h5 id="exaptation">Exaptation</h5>
+
+<p>Exaptation is the transformed use of something that evolved or was invented to do something totally different. Assimilating concepts and concocting new alternate ways of using them dates back almost a thousand years. The movable type press invented by Gutenberg was inspired by the screw fix wine making devices that were ubiquitous in the early 15th century in the Rhine area. This is where the importance of variety of experiences come in and why possessing <a href="https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214506/ref=sr_1_1?crid=FVJPR43TBTDZ&amp;keywords=Range&amp;qid=1660724216&amp;sprefix=r%2Caps%2C574&amp;sr=8-1">Range</a> seems to be so important.</p>
+
+<p>We need amalgamation of different contexts and ideas to generate exaptation. A coffee house is known to have encouraged this amalgamation. Open cafeterias and water coolers are a great way to encourage this in your team/organisation.</p>
+
+<hr />
+
+<p>To summarise, in the last 200 years, most of our world changing innovations have come from networks and collaborative efforts. Sole individuals or companies tinkering with things in their labs have had a minute impact on the world.</p>
+
+<p>The key component of an environment that produces innovation is collaboration and open networks. A slow paced culture that encourages slow hunches and inculcates a habit of not being dismayed by errors. Only those ideas that are liberated amount to massive changes. Ideas that are copied, improved, distributed become better and end up changing the world. This is why in recent times mere economic motive doesn’t lead to big innovations as that means protecting ones ideas from the improvements done by ones competition.</p>
+
+<hr />
+<p>I run a startup called Harmonize. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, I tweet about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Business &amp;amp; Entrepreneurship" /><summary type="html"><![CDATA[In his remarkable book Where Good Ideas Come From, Steven Johnson, illustrates the important aspects of creating an environment that can lead to birth of good ideas. He uses historical examples to highlight how specific features in the environment, directly led to the rise of world changing ideas like the Gutenberg press, the omnipresent post-it note and many life saving medical innovations. Before we dive into them, it would be best to understand the concept of Fractal patterns.]]></summary></entry><entry><title type="html">Daily planning with momentum devices</title><link href="http://localhost:4000/daily-planning-with-momentum-devices/" rel="alternate" type="text/html" title="Daily planning with momentum devices" /><published>2022-07-16T12:24:10+05:30</published><updated>2022-07-16T12:24:10+05:30</updated><id>http://localhost:4000/daily-planning-with-momentum-devices</id><content type="html" xml:base="http://localhost:4000/daily-planning-with-momentum-devices/"><![CDATA[<p>Momentum is a great thing to have in any situation. If we have positive momentum, same problems can appear easier than when we are starting with no momentum. I am using the word momentum to loosely refer to <em>some tiny progress in the positive direction</em>. All video games are designed to give us quick instant feedback and easy starts to give us a sense of momentum (and gratification). It is this momentum (and of course other stuff like shots of dopamine) that has us spending hours tackling tough problems while actually “playing”. In this post I expand how I try to leverage momentum in my daily planning.</p>
+
+<h5 id="tiny-progress--starting-from-scratch">Tiny progress &gt;&gt; starting from scratch</h5>
+
+<p>Making tiny progress in the right direction to give ourselves some momentum has incredible effects on our productivity. I’ve come to realise that setting fitness goals like 10k steps a day become doable if I get up on time and do 2k steps by 7am. Doing 2k steps is easy and a much smaller goal in the larger scheme of things and once done, there’s a positive feeling that the goal is not that daunting anymore. I don’t necessarily understand the psychology of this but I suppose it is the opposite of the “what the heck” effect which we feel when what lies ahead of us seems insurmountable.</p>
+
+<p>Similarly, writing is hard, especially a long blog post, so instead, I try to create a skeleton comprising some bullet points to give myself a positive momentum for when I eventually get around to working on it. The same is true for daily planning. If you’ve got a todo list, you know what you are going to do first and it is likely you’ll have a productive day. This point of “making time for traction”, was discussed at length in the book <a href="https://infermuse.com/lessons-from-indistractable/">Indistractable</a> but I think we can take it a step further.</p>
+
+<h5 id="todo-list-">Todo list ++</h5>
+
+<p>Don’t just make a todo list, expand the first few items of your list to make some progress on them so you start your day with positive momentum. To clarify, this isn’t faking progress, but rather getting yourself some scaffolding to have a good start to whatever you’re trying to do.</p>
+
+<p>In the image below, I show a daily note. My daily todo list is basically a set of notes in Obsidian and each daily note is linked to specific notes (so the “Purpose Hunt” and “Range” are notes linked to this daily note). If you use Obsidian, the calendar extension works well for daily planning.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/07/daily-planning.png" alt="Daily note in obsidian" srcset="    /assets/resized/daily-planning-320x282.png 320w,    /assets/resized/daily-planning-480x424.png 480w,    /assets/resized/daily-planning-800x706.png 800w, /wp-content/uploads/2022/07/daily-planning.png 902w" /></p>
+
+<p>When I plan my todo list, I try to make some progress on some of the items. This could be putting together a rough skeleton of what I want done, collating links (videos, articles) I can use as a starting point, putting down questions I have so I can start by trying to answer them or simply inserting a reusable template (think skeleton) for the specific task.</p>
+
+<h5 id="templates">templates</h5>
+
+<p>The image below shows my template for an app idea. I use this to put some structure to an idea I have. Template notes are a great way to get some quick momentum as they are reusable and give you a starting direction.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/07/app-idea-template-1160x1132.png" alt="APP idea template" srcset="    /assets/resized/app-idea-template-1160x1132-320x312.png 320w,    /assets/resized/app-idea-template-1160x1132-480x468.png 480w,    /assets/resized/app-idea-template-1160x1132-800x781.png 800w, /wp-content/uploads/2022/07/app-idea-template-1160x1132.png 1160w" /></p>
+
+<p>To summarise, don’t just make a todo list, expand your items to give yourself some momentum. It is imperative to spending time to make early progress on items you will pick up later. The right time to do this is perhaps the planning stage itself or may be scheduling time for “adding momentum” to your long term goals, as separate todo items during the week.</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Human Psychology" /><category term="Lifehacks" /><summary type="html"><![CDATA[Momentum is a great thing to have in any situation. If we have positive momentum, same problems can appear easier than when we are starting with no momentum. I am using the word momentum to loosely refer to some tiny progress in the positive direction. All video games are designed to give us quick instant feedback and easy starts to give us a sense of momentum (and gratification). It is this momentum (and of course other stuff like shots of dopamine) that has us spending hours tackling tough problems while actually “playing”. In this post I expand how I try to leverage momentum in my daily planning.]]></summary></entry><entry><title type="html">How to argue</title><link href="http://localhost:4000/how-to-argue/" rel="alternate" type="text/html" title="How to argue" /><published>2022-06-19T10:58:27+05:30</published><updated>2022-06-19T10:58:27+05:30</updated><id>http://localhost:4000/how-to-argue</id><content type="html" xml:base="http://localhost:4000/how-to-argue/"><![CDATA[<p>I sort of cheated with the title of this post. It’s going to be less “how to argue” and more “with what mindset to walk into a discussion”. Today, we all have super fast access to facts at our finger tips, one would have thought that would bring us all together as we all gravitate towards the truth, but nothing could be further from reality.</p>
+
+<p><img src="https://media.giphy.com/media/s7uHDGT8SoJAQ/giphy.gif" width="60%" align="center" /></p>
+
+<p>The reality is there is no one truth. There are versions of a story that are consistent with our world views. When we hear something that challenges our world views, we feel threatened. This is the same kind of threat our ancestors faced in the wild and it produces nearly an identical flight or fight response. We all have noticed our counterparts flare up and get angry. You can bet nothing fruitful ever emanates from two parties that are dealing with their prehistoric brains in a fight for survival. Here’s a few tips you can keep in mind while walking into an argument.</p>
+
+<p><img src="https://media.giphy.com/media/IgsXOXGPxfT3O/giphy.gif" width="60%" align="center" /></p>
+
+<ol>
+  <li>The zeroth law of walking into an argument is to have an open mind and be curious about learning more about your counterparts. You really can’t fake this. The idea of a discussion or a debate should be to expand the combined consciousness of the group and not to “win” the other side over. In short, be curious about the other opinions.</li>
+  <li>Start by laying down the points of agreement. Starting with the common ground allows everyone to start on a positive note. Seek out integration instead of pushing your ideas or trying to win.</li>
+  <li>Focus on one or two main arguments. When we use many arguments our opponents can get fixated on the weakest one and counter those.</li>
+  <li>Beware reactance (when people disagree with what they are being told, despite originally agreeing with it). Fight the urge to correct people. This is especially important as more facts never help. People make opinions aka snap judgements and then once made, don’t let facts get in their way.</li>
+  <li>The simplest way to disarming your counterparts is to start by addressing their emotions. You can also use the opportunity to settle them down and make them feel safe by saying you’re not challenging their views or trying to change their opinions. In every discussion we all want to project ourselves in a certain way. Understand that your counterpart is also trying to project some face and let them have it. Acknowledge their status.</li>
+  <li>Don’t stick to common scripted arguments. Use novelty as our brains are wired to seek novelty. When you’re interesting, people pay attention to what you’re saying.</li>
+  <li>Try to control your anger and emotions. Do not escalate. Only use anger and hostility carefully, rarely, and it should ideally come as a surprise.</li>
+</ol>
+
+<p>Most of these tips come from the two books <a href="https://infermuse.com/notes-from-conflicted-by-ian-leslie/">Conflicted</a> and <a href="https://infermuse.com/lessons-from-youre-not-listening/">You’re not listening</a>. I highly recommend both.</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Human Psychology" /><category term="Lifehacks" /><summary type="html"><![CDATA[I sort of cheated with the title of this post. It’s going to be less “how to argue” and more “with what mindset to walk into a discussion”. Today, we all have super fast access to facts at our finger tips, one would have thought that would bring us all together as we all gravitate towards the truth, but nothing could be further from reality.]]></summary></entry><entry><title type="html">Obsidian notes meet OpenAI</title><link href="http://localhost:4000/obsidian-notes-meet-openai/" rel="alternate" type="text/html" title="Obsidian notes meet OpenAI" /><published>2022-05-30T10:10:05+05:30</published><updated>2022-05-30T10:10:05+05:30</updated><id>http://localhost:4000/obsidian-notes-meet-openai</id><content type="html" xml:base="http://localhost:4000/obsidian-notes-meet-openai/"><![CDATA[<p>In my previous post, I discussed how my approach to <a href="https://infermuse.com/obsidian-workflow-for-book-notes/">keeping book notes in Obsidian</a> tries to leverage the “mo-connections-mo-retention” aspect of our brain. That idea however, is heavily dependent on how we make connections while taking or making notes. Connecting the dots between notes is a “manual” process. One would argue “connecting” is “synthesis” and it needs to be manual and thought out, but surely we can find a better way 😉</p>
+
+<h5 id="connecting-notes">Connecting notes</h5>
+
+<p>I am writing down three methods you can use to find connections between notes. I use a combination of these three but I feel there’s a smarter approach lurking around somewhere.</p>
+
+<ul>
+  <li>Memory – recall something that is connecting to something that you’re working on right now (can be highly erratic based on how well you remember your previous notes)</li>
+  <li>Unlinked mentions – you can open up the unlinked mentions of the note to see all the other notes where this note is mentioned but not connected. This relies on keywords in your title (it will literally look for your title in other notes) and is non-fuzzy (for good reason). I use the <a href="https://help.obsidian.md/Advanced+topics/YAML+front+matter">aliases in the frontmatter</a> so the search for unlinked mentioned includes the aliases (so your note titled “How to Argue” with aliases “Forming an argument” or “Argumentative Indians” can have a higher chance of being linked elsewhere) but even that is bound by how creative you can get while assigning aliases to your notes.</li>
+  <li>Local graph – visually seek nearby items or items that are connected on nth degree</li>
+</ul>
+
+<p>The right way to do this would be to leverage the fast growing Artificial Intelligence or Semantic Search algorithms to help us connect the dots that aren’t easily visible.</p>
+
+<h5 id="enter-open-ai-embeddings">Enter Open AI embeddings</h5>
+
+<p>OpenAI is an AI research lab that is pushing out a lot of ready to use AI models that you can use in your applications. Think things like classifications, semantic search, completions, etc.</p>
+
+<p>An “embedding” is a vector representation (in simple terms it is a list of numbers) of a piece of text’s semantic representation across thousands of parameters (think parameters like category, sub category, genre, gender, voice, etc ). The closer the distance between two vectors, the more semantically close they are to each other.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/05/download.png" alt="CoSINE similarity between two vectors " srcset="    /assets/resized/download-320x64.png 320w,    /assets/resized/download-480x95.png 480w, /wp-content/uploads/2022/05/download.png 503w" /></p>
+
+<p>To use OpenAI’s models you need to signup to their waitlist. I recently got in and have been blown away by the possibilities. In the rest of this post, I deep dive into the code that I used to run OpenAI’s embeddings system on my notes to find non-obvious connections between my notes.</p>
+
+<p><em>For the purpose of this exercise, I stuck to finding connections between the book notes of my vault which also helped keep the costs down on OpenAI (you get $18 of free credits to get you started and I intend to stretch it as long as I humanely can</em> 😁<em>).</em></p>
+
+<h5 id="the-setup">The setup</h5>
+
+<p>This is going to be a simple 4 step process</p>
+
+<ol>
+  <li>Load up all the notes in a Pandas DataFrame to make it easy to run the computations (also easy to load up and dump data in .CSV format)</li>
+  <li>Run embeddings on my notes to generate their vector representations and them dump into another .CSV file</li>
+  <li>Find the top 5 semantically similar notes by using an algorithm called cosine similarity (distance between two vectors)</li>
+</ol>
+
+<h5 id="the-results">The results</h5>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/05/notes-1160x482.png" alt="" srcset="    /assets/resized/notes-1160x482-320x133.png 320w,    /assets/resized/notes-1160x482-480x199.png 480w,    /assets/resized/notes-1160x482-800x332.png 800w, /wp-content/uploads/2022/05/notes-1160x482.png 1160w" /></p>
+
+<p>The long and short of it is I was able to connect ideas I didn’t originally think were related. My notes on <strong>In group bias</strong> found to be connected to <strong>Echo chambers</strong>, notes on <strong>Tunnel vision</strong> connected with <strong>First Principles</strong>, <strong>Implementation Intention</strong> with <strong>Commitment and Consistency</strong> bias and so on. Some of these seem super obvious now but I given had over 700 notes across 55 books, I wasn’t able to connect and synthesise them when i was originally working on them.</p>
+
+<p>My sense is <strong>a semantically capable AI can act as a wingman of sorts</strong> while you make notes. I am way too occupied in my day to day responsibilities to work on an Obsidian plugin but if someone’s interested they are welcome to use my rough code as a foundation. <a href="https://github.com/ujj/obsidian-notes-meets-openai">Here’s the github repo</a>. Happy Hacking!</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Lifehacks" /><category term="Productivity" /><summary type="html"><![CDATA[In my previous post, I discussed how my approach to keeping book notes in Obsidian tries to leverage the “mo-connections-mo-retention” aspect of our brain. That idea however, is heavily dependent on how we make connections while taking or making notes. Connecting the dots between notes is a “manual” process. One would argue “connecting” is “synthesis” and it needs to be manual and thought out, but surely we can find a better way 😉]]></summary></entry><entry><title type="html">Obsidian workflow for book notes</title><link href="http://localhost:4000/obsidian-workflow-for-book-notes/" rel="alternate" type="text/html" title="Obsidian workflow for book notes" /><published>2022-05-15T12:47:24+05:30</published><updated>2022-05-15T12:47:24+05:30</updated><id>http://localhost:4000/obsidian-workflow-for-book-notes</id><content type="html" xml:base="http://localhost:4000/obsidian-workflow-for-book-notes/"><![CDATA[<p>In Early 2021, I migrated from Emacs org-mode to <a href="https://obsidian.md/">Obsidian</a> for my note keeping. Obsidian is a basically just a folder of notes on your phone or desktop. Your notes are by default private and on your device only (you can choose a bunch of methods to have them on the cloud too if you want). These files are written in markdown which is basically just plain text. The most important advantage is that your notes are organised as a wiki so you can link them together like wikipedia.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/05/attention.png" alt="Linked things are retained better" srcset="    /assets/resized/attention-320x320.png 320w,    /assets/resized/attention-480x480.png 480w,    /assets/resized/attention-800x800.png 800w, /wp-content/uploads/2022/05/attention.png 1000w" /></p>
+
+<h3 id="why-a-wiki">Why a wiki?</h3>
+
+<p>Our brain retains a piece of information better when it is connected to other things. I wrote about <a href="https://infermuse.com/how-attention-works/">how attention works</a> before but it is also how retention works. It is in our best interest to try to understand things in relation to other stuff we already know. Linking your notes together like a wiki is a great way to support our natural learning instincts. In a way, this is also a forcing function to try and synthesise the information to make it connect to something while you’re discovering it. The more you connect a new idea, the more deeply we understand it and the more likely we are to apply it in real world.</p>
+
+<h5 id="how-to-take-book-notes-in-obsidian">How to take book notes in Obsidian</h5>
+
+<p>Before diving in to how to take notes in Obsidian, I guess it makes sense to establish that there is a bad (think: less useful) way to take notes. It is to simply put down a piece of information or a quote and hoping that’s that. That may be better than not taking a note altogether, but not by much. The more useful way is to write down your understanding of a quote or information in words that give you meaning.</p>
+
+<p>Next, try to connect it to something you already know. It may be another topic or concept or another source/book/article. If that is not immediately possible, simply tag it with a word or phrase that pops up in your head. You can later on, follow the tag a down to see if you find something that connects to your original note. This type of connective thinking is at the root of the usefulness of systems like Obsidian or <a href="https://roamresearch.com/">Roam research</a>.</p>
+
+<p>Another important part of our learning infrastructure, is the idea of “meaning before details”. We love when things come together in the form of a cohesive story. One way to implement this in taking book notes is to break down the overlapping idea of the book into its constituent concepts. The image below shows one way I’m implementing this.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/05/book-structure-1160x630.png" alt="How to structure book notes in obsidian" srcset="    /assets/resized/book-structure-1160x630-320x174.png 320w,    /assets/resized/book-structure-1160x630-480x261.png 480w,    /assets/resized/book-structure-1160x630-800x434.png 800w, /wp-content/uploads/2022/05/book-structure-1160x630.png 1160w" /></p>
+
+<h5 id="the-five-elements-of-organising-a-book-note">The five elements of organising a book note</h5>
+
+<ol>
+  <li>A new folder for every new book to give it a sense of containment</li>
+  <li>A meta note (the image above shows the book meta note) that describes the main idea</li>
+  <li>The meta note is connected to individual notes, each describing the concept</li>
+  <li>Tags so you can bind multiple works that have similar meaning to you (I also use the author as a tag so I can connect multiple works by the same author logically but this is not really important)</li>
+  <li>Each individual concept note which is the core information we want to retain (think pieces of the soul of the book)</li>
+</ol>
+
+<h5 id="-connecting-concepts-across-books--"><span class="cnvs-section-title"> <span>Connecting concepts across books </span> </span></h5>
+
+<p>The decisive aim of note keeping, as I’ve said before, is to connect concepts. While writing your own understanding of a concept, see if it is connecting to something you’ve already noted before. In this specific example (see screenshot below) you can see the concept of “The right balance of give and take” being linked to other concepts. This cross linking makes for some really interesting synthesis. It allow you to not only retain the concept but the extra context, allows you expand your understanding of how it can be applied in the real world.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/05/concept-note-1160x955.png" alt="Note of a specific concept of a book" srcset="    /assets/resized/concept-note-1160x955-320x263.png 320w,    /assets/resized/concept-note-1160x955-480x395.png 480w,    /assets/resized/concept-note-1160x955-800x659.png 800w, /wp-content/uploads/2022/05/concept-note-1160x955.png 1160w" /></p>
+
+<p>I should also mention that this a two way street. When you connect a note you’re working on, to another note, that other note also gains from this enrichment. This way if you come across that other note again, you can expand your understanding even further. See the screenshot below to see how a backlinked note from a different book, benefits from additional context from being connected to concepts across other books.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/05/backlinks-1160x729.png" alt="A note with its backlinks from other notes" srcset="    /assets/resized/backlinks-1160x729-320x201.png 320w,    /assets/resized/backlinks-1160x729-480x302.png 480w,    /assets/resized/backlinks-1160x729-800x503.png 800w, /wp-content/uploads/2022/05/backlinks-1160x729.png 1160w" /></p>
+
+<p>This method is by no stretch of imagination perfect. Like all things learning related, it is correlates strongly with how your brain is wired. Your mileage will most certainly vary but if you’re looking to start taking notes while reading, this might give you some food for thought.</p>
+
+<p>In another Obsidian related post, I intend to describe how I use the popular Zettelkasten method to go about my planning my days and weeks.</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Lifehacks" /><category term="Productivity" /><summary type="html"><![CDATA[In Early 2021, I migrated from Emacs org-mode to Obsidian for my note keeping. Obsidian is a basically just a folder of notes on your phone or desktop. Your notes are by default private and on your device only (you can choose a bunch of methods to have them on the cloud too if you want). These files are written in markdown which is basically just plain text. The most important advantage is that your notes are organised as a wiki so you can link them together like wikipedia.]]></summary></entry><entry><title type="html">EPIC framework for creating defining moments</title><link href="http://localhost:4000/epic-framework-for-creating-defining-moments/" rel="alternate" type="text/html" title="EPIC framework for creating defining moments" /><published>2022-05-06T07:19:51+05:30</published><updated>2022-05-06T07:19:51+05:30</updated><id>http://localhost:4000/epic-framework-for-creating-defining-moments</id><content type="html" xml:base="http://localhost:4000/epic-framework-for-creating-defining-moments/"><![CDATA[<p>Dan and Chip Heath have written yet another book in their signature style. I love how their books are structured around one big central idea that is the hub with sub-concepts as spokes sticking out. In, Power of Moments, they explain how certain moments stay with us long after they are over and how can we create more such moments for ourselves and people around us.</p>
+
+<p>The return on investment from creating definitive moments is clear and proven but creating more memorable moments should be a goal in and of itself. Let’s dive into the recipe of a definitive moment. The 4 spokes of definitive moments can be thought of as the short form EPIC.</p>
+
+<p><img src="https://infermuse.com/wp-content/uploads/2022/05/giphy.webp" alt="EPIC" /></p>
+
+<h5 id="elevate">ElevatE</h5>
+
+<p>The most important takeaway from the book is that we have the power to transform any moment to a defining moment by elevating it and making it more than an everyday thing. This sounds obvious but how many memorable moments can we come up with from the last week (I think not many if not 0). Here’s three simple ways in which we can do this.</p>
+
+<ol>
+  <li>Boost sensory appeal – make it extraordinary and slightly over the top but don’t overdo. While boosting something, focus on the meaning.</li>
+  <li>Raise the stakes – make it a game and add some pressure (time limits, downsides, prizes, etc)</li>
+  <li>Break the script – make it surprising and unexpected (think free food, gifts, going out for a meeting, dressing up, etc)</li>
+</ol>
+
+<p>Ideally one should aim for using all three but at least two are absolutely needed to elevate any moment.</p>
+
+<h5 id="pride">Pride</h5>
+
+<p>Moments where we feel pride also etch in our psyche deeply. Pride is a strong emotion and we underuse it a lot. Here’s three ways in which we can engineer moments of pride.</p>
+
+<ol>
+  <li>Recognise moments of achievement – be open to celebrating other people’s proud moments like children’s graduations, promotions, accomplishments, etc.</li>
+  <li>Give people a sense of progress by leveling up – Any task can be turned into a game whose levels and milestones are intrinsically motivating. Progressing through these levels keeps pushing us forward as we enjoy tiny jolts of success. Very loosely speaking, more milestones, mean more possible moments of pride.</li>
+  <li>Moments of courage are particularly powerful and we can practice courage by making tiny steps towards our overall brave goals. This is useful for our creating defining moments for our own self. Looking to do something brave? Make a step by step plan and start practicing courage.</li>
+</ol>
+
+<h5 id="insights">Insights</h5>
+
+<p>Defining moments can often come from realisation of something (“i am going to marry this person”, “I never knew I was so bad at managing people”, etc) and as you might have guessed by now, these too can be engineered. A leader can make a truth evident by making people realise it (but not say it). Questioning people or indulging them in experiments to help them “trip over the truth” is a very powerful device. The goal is to dramatise the problem in some way and let people discover their own insights. Often times, leaders need to push people so they may learn something about themselves. The right way to push someone is to give them two things</p>
+
+<ol>
+  <li>High standards – to help them push in the right direction with the right expectations</li>
+  <li>Assurance – that you’re there to help and that they can’t fail</li>
+</ol>
+
+<h5 id="connection">Connection</h5>
+
+<p>Moments of connection with others leave us energised. Our deep connections with people around us give us opportunities to create many moments of shared meanings (think believing in a common purpose, intense experiences in a team or even inside jokes) that bind us together. There’s enough research out there that explains why painful rituals (like fraternity hazing) seems to bind people together and while that is not we should shoot for, it does validate the importance of rituals with a certain meaning, in creating strong connections.</p>
+
+<p>The simplest way to connect to someone is via responsive treatment that leaves people more emotionally satisfied. We all seek care, validation, attachment, understanding and other positive emotions from people around us and when we get it, we connect.</p>
+
+<p>One of the most interesting lifehack I took away from this book is to ask “what matters to you”. It is such an elegant way to peep into another person’s psyche and make an instant connection. Finally, Brené Brown wrote about the <a href="https://infermuse.com/lessons-from-daring-greatly/">importance of vulnerability in Daring Greatly</a> in some detail and it, alongside responsiveness is a phenomenal combo for making authentic connections that lead to more defining moments.</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Lifehacks" /><summary type="html"><![CDATA[How some moments become more deeply etched in our memories and how to create more of them]]></summary></entry><entry><title type="html">How attention works</title><link href="http://localhost:4000/how-attention-works/" rel="alternate" type="text/html" title="How attention works" /><published>2022-04-28T16:15:00+05:30</published><updated>2022-04-28T16:15:00+05:30</updated><id>http://localhost:4000/how-attention-works</id><content type="html" xml:base="http://localhost:4000/how-attention-works/"><![CDATA[<p>It is imperative we understand how attention works in today’s world. Not just to prevent ourselves from getting distracted but also to be able to hold other people’s attention to get things done. This post is my learnings on how attention works from a variety of sources. This is super dumbed down version that helped me wrap my head around this esoteric concept so if you’re somehow an expert who’s bumped into this, I probably should apologise upfront 😊</p>
+
+<p>Let’s start with the basics. The 4 steps in which something gains our attention (attention here referring to becoming the primary thread of our thinking infrastructure). Evan in his <a href="https://twitter.com/evanlapointe/status/1337049634578067458">twitter thread</a> explains this wonderfully but my summary follows.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/04/Attention-1160x773.png" alt="how attention works" srcset="    /assets/resized/Attention-1160x773-320x213.png 320w,    /assets/resized/Attention-1160x773-480x320.png 480w,    /assets/resized/Attention-1160x773-800x533.png 800w, /wp-content/uploads/2022/04/Attention-1160x773.png 1160w" /></p>
+
+<ol>
+  <li>Whatever we see or hear hits our Thalamus that looks for novelty. Is what we’re saying or showing, really interesting or looks beautiful? The human mind had to encourage capture of newness around us to help protect against threats but this threat detection system is what makes it all oh so interesting (read on).</li>
+  <li>Next we encounter the Amygdala, assessing for threats. Threats not just of physical kind but those that hurt our ego or challenge our worldviews. These threats induce stress which is the same as a life threatening situation like seeing a snake in the grass would trigger. This is where things get super hard but also interesting. While announcing the support for Microsoft for iTunes in 2003, Steve Jobs did not start by explaining the logic of why Apple had decided to build iTunes for the PC. He did not get into how important it was for iTunes to be on a platform that had 90% market share, to win over the music industry. He understood how Mac faithfuls would perceive this as treachery and addressed it point blank. This is how we must strive to move forward too, by addressing emotions first.</li>
+  <li>Next, the Hippocampus looks up any relevant memories and runs a pattern matching algo to connect this new information to something we already know. While delivering a lecture or talk, we can make it easier for people by helping connect the dots ourselves. The more things a piece of information connects to, the better it is retained and understood.</li>
+  <li>It’s after jumping the 3 hoops mentioned before, does something reach the s l o w thinking part of the brain.</li>
+</ol>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/04/1605257815647.jpeg" alt="Steve Jobs, 2003" srcset="    /assets/resized/1605257815647-320x180.jpeg 320w,    /assets/resized/1605257815647-480x270.jpeg 480w, /wp-content/uploads/2022/04/1605257815647.jpeg 800w" /></p>
+
+<p>Chris Bailey in <a href="https://infermuse.com/lessons-from-hyperfocus/">Hyperfocus</a> talks about taking control of attention as being the first step to becoming productive. “Intention before attention” is a point that he makes regularly. To make our workdays productive and our life more meaningful we need to take control of what our mind deems important and then make changes in the way we think and work.</p>
+
+<p>One of the factors that affect our attention is the “working memory” also called “attention space”. Depending on our sleep levels, mood, and whether we are a morning lark or a night owl, our mind has varying attention space at any time. This space determines how much information we can keep in our mind at any time. The more we can control our attention, the easier it is to get to Flow.</p>
+
+<p>Dr Medina talks about the role of <a href="https://infermuse.com/lessons-from-brain-rules/#:~:text=where%20everyone%20is.-,ATTENTION%C2%A0,-THE%20MACINTOSH%20AD">Emotionally Charged Stimuli</a> (ECS) in attention and memory, in his book Brain Rules. A key aspect of attention is the relevance of “meaning before details” and importance of gists. By taking a top down approach of proving a hierarchy of building blocks and then expanding on each block, we make it easy to hold people’s attention.</p>
+
+<p>Finally, our ability to listen and make authentic connections is also linked to attention. Genuine connections are an integral part of relationships and if we don’t pay attention to what is truly important for a good life, we are setting ourselves up for a mediocre one. Don’t let important people in your life become residual beneficiaries of your time. Schedule time for them, like you would a meeting.</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Lifehacks" /><category term="Productivity" /><summary type="html"><![CDATA[It is imperative we understand how attention works in today’s world. Not just to prevent ourselves from getting distracted but also to be able to hold other people’s attention to get things done. This post is my learnings on how attention works from a variety of sources. This is super dumbed down version that helped me wrap my head around this esoteric concept so if you’re somehow an expert who’s bumped into this, I probably should apologise upfront 😊]]></summary></entry><entry><title type="html">Better Simpler Strategy</title><link href="http://localhost:4000/better-simpler-strategy/" rel="alternate" type="text/html" title="Better Simpler Strategy" /><published>2022-03-18T15:42:58+05:30</published><updated>2022-03-18T15:42:58+05:30</updated><id>http://localhost:4000/better-simpler-strategy</id><content type="html" xml:base="http://localhost:4000/better-simpler-strategy/"><![CDATA[<p>I’ve been a regular listener of the <a href="https://hbr.org/2018/10/podcast-after-hours">After Hours podcast</a> show in which three HBS professors discuss current events and share their recommendations. Felix Oberholzer-Gee is one of the regular hosts of the show and he often brings some unique takes on issues they discuss. I also like his quirky music recommendations 😁 When I heard he brought out a new book on strategy, I had to have it.</p>
+
+<p>In Better Simpler Strategy FOG, describes a simple model to come up with and evaluate strategies. This is actually just the second book I have read after <a href="https://infermuse.com/good-strategy-vs-bad-strategy/">Good Strategy Bad Strategy</a> so my exposure to this topic is very limited but evolving. The one key idea in this book is called the value stick and the rest of the book is organised around it. My key takeaways from the book follow.</p>
+
+<h5 id="the-value-stick">The Value Stick</h5>
+
+<p>This Value Stick is the diagram shown below. WTP is your customers’ willingness to pay and WTS is your employees’ willingness to sell aka interest to work. The length of the stick is the value the company creates. You either increase customer’s willingness to pay or decrease the cost of your employees’ or vendors’ willingness to work. This simple framework provides an interesting way of looking at tactics and strategies. Your job is to focus on initiatives that raise WTP or lower the WTS (and balancing a few others things like how quickly can it be copied by your competitors).</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/03/Screenshot_20220313-100511-1160x1214.jpg" alt="" srcset="    /assets/resized/Screenshot_20220313-100511-1160x1214-320x335.jpg 320w,    /assets/resized/Screenshot_20220313-100511-1160x1214-480x502.jpg 480w,    /assets/resized/Screenshot_20220313-100511-1160x1214-800x837.jpg 800w, /wp-content/uploads/2022/03/Screenshot_20220313-100511-1160x1214.jpg 1160w" /></p>
+
+<p>Two important things to note here.</p>
+
+<ul>
+  <li>In the sea of opportunities, key benefits lie close to home. There’s always more you can gain from your own industry than by trying to get into another. Lots of research linked in the book illustrates this fact so be careful before you decide to pivot into a different industry.</li>
+  <li>Always think in terms of value, not profit or price. The “delight factor” a consumer experiences can be thought of as the difference between the value your customer derives vs what she pays. The higher this difference, the higher their WTP.</li>
+</ul>
+
+<h5 id="increasing-wtp">Increasing WTP</h5>
+
+<p>There’s a massive amount of literature on this. From network effects to tipping points of scale to increasing delight, you can find many ways and means of increasing your consumers’ willingness to pay on the internet. I found a couple of interesting fresh ideas in this book worth noting.</p>
+
+<p><strong><span style="text-decoration: underline;">Focus on near-customers</span></strong> – Near customers are almost your customers but not quite. These may be people who want to pay a little less and need something less or have other problems that prevent them from becoming your customers. Studying them and figuring out how to get them might open you up to a whole new market. Usually it means making something simpler or doing less but could also mean building a whole lot more.</p>
+
+<p><strong><span style="text-decoration: underline;">Use of complements</span></strong> – Michelin’s travel guides (this book answered my old question to why does a tyre company rate restaurants) to boost tyre sales are a classic example of how complements can be used to increase the sales of a core product. This of course is a very nuanced topic and the competition must always be in the back of your head while you think about adopting or selling complements.</p>
+
+<p>In case you also wonder, Michelin, the old tyre company started at a time when there was a very limited market for driving. To sell tyres, they had to sell driving as an experience (thus, the travel guides which later evolved into restaurant guides). The right present day analogy would be how Slack is selling organisational transformation (and not group chat). Stewart Butterfield’s <a href="https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d">we don’t sell sadles here</a> memo is spot on.</p>
+
+<h5 id="decreasing-wts">Decreasing WTS</h5>
+
+<p>Focussing on employee engagement can have massive effects on business. Not only are there direct costs savings if people like to work for you, their engagement is almost directly linked to innovation at the workplace. While this book focuses on other aspects of the WTS too, like reducing vendor costs (by investing in initiatives like vendor networking, working with them more closely to share intimate knowledge about the product, etc) but I am going to skip that bit as it doesn’t apply to a software company like the one I am a part of.</p>
+
+<p>The two key ideas that I most related to are</p>
+
+<ul>
+  <li>Give your people a longer term view of their employment. You can do this by asking them to think about the career path and working with them closely to come up with their growth chart.</li>
+  <li>Encourage people to pursue their passions in a flexible way. This can be done in a myriad of ways like offering generous time off, encouraging creation of interests groups at work, recognising personal passions and interests, etc.</li>
+</ul>
+
+<h5 id="investments-in-productivity">Investments in productivity</h5>
+
+<p>Warren Buffet is once said to have told a <a href="https://fs.blog/second-order/">hypothetical scenario of people watching a parade</a>. One person decides to stand on his toes to get a better view and by doing so he does get a better view but only for a little while as others around him start doing it as well. Now they are all standing on their tip toes but have essentially the same view as before and are therefore worse off than when they were standing normally.</p>
+
+<p>This analogy is usually brought to the fore everytime people discuss making small operational improvements as it is likely to be copied almost immediately by the competition. The reality however is quite different.</p>
+
+<p>Advances in organisation wide productivity initiatives can affect both WTS and WTP. Research suggests that there is a wide variance in similar companies with respect to their management practices ike goal settings, performance tracking, incentives and appraisals, etc. In short, It makes sense to invest in learning about industry specific management techniques. Learning and development seems like slowing down initially but its benefits compound over time.</p>
+
+<h5 id="value-maps">Value maps</h5>
+
+<p>Smart trade offs are an essential part of a good strategy. Value maps (see image below that shows the value map for a hypothetical consulting business) are a way for you to assess what you need to be good at (your customers’ prime needs), and what you can ignore (customers don’t care too much about).</p>
+
+<p>Ideal value map would have a straight line coming from the top right down to the bottom left, i.e. you excel at what is most important to your customers and you kind of suck at or ignore things they are indifferent to.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/03/Screenshot_20220317-065944-1160x1031.jpg" alt="" srcset="    /assets/resized/Screenshot_20220317-065944-1160x1031-320x284.jpg 320w,    /assets/resized/Screenshot_20220317-065944-1160x1031-480x427.jpg 480w,    /assets/resized/Screenshot_20220317-065944-1160x1031-800x711.jpg 800w, /wp-content/uploads/2022/03/Screenshot_20220317-065944-1160x1031.jpg 1160w" /></p>
+
+<p>FOG makes an interesting point about tradeoffs. The idea of a tradeoff comes hard to A type personalities. Personal experiences of working hard and “achieving everything” rarely ever translates to an organisation. An organisation, even one composed of all geniuses, would need alignment, communication and processes to achieve its goals and in that respect, it is very different from an individual who can work hard and win with brute force. More moving pieces (think individuals with different passions and desires) means we need a clear strategy to decide on what to go big on and what to ignore.</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Business &amp;amp; Entrepreneurship" /><summary type="html"><![CDATA[I’ve been a regular listener of the After Hours podcast show in which three HBS professors discuss current events and share their recommendations. Felix Oberholzer-Gee is one of the regular hosts of the show and he often brings some unique takes on issues they discuss. I also like his quirky music recommendations 😁 When I heard he brought out a new book on strategy, I had to have it.]]></summary></entry><entry><title type="html">Lessons from You’re Not Listening</title><link href="http://localhost:4000/lessons-from-youre-not-listening/" rel="alternate" type="text/html" title="Lessons from You’re Not Listening" /><published>2022-03-13T12:30:02+05:30</published><updated>2022-03-13T12:30:02+05:30</updated><id>http://localhost:4000/lessons-from-youre-not-listening</id><content type="html" xml:base="http://localhost:4000/lessons-from-youre-not-listening/"><![CDATA[<p>Kate Murphy, the author of <a href="https://www.amazon.com/Youre-Not-Listening-Kate-Murphy-audiobook/dp/B07WJ6MR2P/ref=sr_1_1?keywords=youre+not+listening+kate+murphy&amp;qid=1647154428&amp;sprefix=youre+not+lis%2Caps%2C442&amp;sr=8-1">You’re not listening</a>, considers herself a professional listener. Her job as a journalist and report stories pushes her to pay close attention to the people she talks to and her being good at her job is uniquely linked to her listening skills. She would however disagree with this. Not the bit about her being a good listener, but the uniqueness of listening we seem to associate with her profession. She believes that almost every job today requires us to collaborate which in turn depends on how we listen to each other. It is that what makes good listening so important today. I try to summarise my key lessons from this book below.</p>
+
+<h5 id="-active-listening-"><span class="cnvs-section-title"> <span>Active listening</span> </span></h5>
+
+<p>Great conversations tend to stay with us long after they are over. Listening is less about hearing words and more about focussing on how they are being said, responding and capturing the other person’s state of mind. <s>Active listening is just a lot of dos and don’ts</s>. It’s a mindset.</p>
+
+<p>Listening leads to connections (<a href="https://infermuse.com/lessons-from-daring-greatly/#:~:text=be%20most%20valuable.-,CONNECTION%20AND%20BELONGING,-Human%20beings%20are">Brene Brown’s thoughts on authentic connections</a> are quite relevant here) and helps one have and enjoy much better relationships. In today’s world where loneliness/suicides are fast becoming a public epidemic, being able to listen to people around us can have important societal benefits. Japan, for instance, has legitimate <a href="https://www.theatlantic.com/family/archive/2017/11/paying-for-fake-friends-and-family/545060/">businesses from whom one can hire actors</a> pretending to be their relatives or friends.</p>
+
+<p>Getting things done, while in a conversation, is not the right mindset. We need to be really curious to be a good listener else we risk coming across as inauthentic. We must take the time to listen and absorb and not do anything else. This singular focus on listening allows us to use the brain resources to notice their body language rather than to come up with a response.</p>
+
+<p>In presence of opposing views, we need to train our amygdala to react differently. This is the toughest part about being a listener as it is extremely satisfying to give in to the knee jerk reaction and roll our eyes and dismiss what is being said.</p>
+
+<h5 id="-open-mindedness-"><span class="cnvs-section-title"> <span>Open mindedness</span> </span></h5>
+
+<p>Lose your assumptions as they act like earplugs. The understanding that what I know is different from what you know is important for communication. We need to realise that out spouses or close friends aren’t the same people, whom we met us years ago. Our cognitive experiences change us and we are continuously evolving.</p>
+
+<p>Open mindedness is also an important trait of the scientific method where one needs to constantly challenge the dogma. Daniel Kahneman is said to have the unique skill of remaining completely unemotional and ready to detonate his work completely and start afresh at the first sight of conflicting evidence.</p>
+
+<h5 id="-using-humour-"><span class="cnvs-section-title"> <span>Using humour</span> </span></h5>
+
+<p>Humour not only makes people more comfortable, it is also perceived to be a marker for high intelligence and competence. This is however, a delicate topic and you must really know your counterpart well before indulging in humour.</p>
+
+<p>Successful humour often makes other people lower their guards and listen more intently. Improv class has benefits and it makes people better listeners as you wait to repeat back to people what they said with punch lines or twists. (Note to self – see if you can take an improv class 😉)</p>
+
+<h5 id="-gossip-isnt-all-bad-"><span class="cnvs-section-title"> <span>Gossip isn’t all bad</span> </span></h5>
+
+<p>Don’t rule out gossiping. It’s a way to gather intelligence and stay in the loop of the ever changing social dynamics.</p>
+
+<p>It’s a social signal that you’re trustworthy and is linked to social exchange theory. It is also an important tool to foster the importance of reputability(as bad actors know they will be gossiped about). <a href="https://en.wikipedia.org/wiki/Robin_Dunbar">Robin Dunbar</a> says less than a third of gossip is bad. Gossip always involves listening to stories and leads to better understanding of our surroundings.</p>
+
+<h5 id="-shift-vs-support-responses-"><span class="cnvs-section-title"> <span>Shift vs Support Responses</span> </span></h5>
+
+<p>Our desire to show off our skills can prevent us from having meaningful conversations and exhuming authenticity. People who walk away feeling smarter after talking with you are likely to enjoy your company more than those who get impressed by learning how smart you are. We always have a choice between offering a “support response” (further their agenda and topic) and a “shift response” (move the conversation to around ourselves ). While the former allows us to learn more about others, the latter can allow us to impress others about our capabilities and experiences.</p>
+
+<blockquote>
+  <p>Our need to show what we can do, often gets in the way of exploring what we can do together.</p>
+</blockquote>
+
+<h5 id="-other-listening-tactics-"><span class="cnvs-section-title"> <span>Other listening tactics</span> </span></h5>
+
+<ul>
+  <li>The more kinds of discourses we listen to, the more our listening capacity improves. Sticking to one is generally a bad idea as prejudicial information can have an effect on how we listen to someone.</li>
+  <li>Sometimes we dial our cognitive load down (incurred by noticing facial expressions and non verbal tics) by discussing sensitive topics while driving or talking on the phone or talking with our spouses at night in the darkened room.</li>
+  <li>People who regularly listen to sped up speech develop attention issues with normal style speech and begin missing out emotional cues.</li>
+  <li>The biology of hearing also plays a role in how we listen. Right ear is better at reasoning and comprehension while our left ear is better at emotional sensitivity (opposite if you’re a left hander). If you’re in an emotionally demanding situation, lend them your left ear.</li>
+</ul>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Lifehacks" /><summary type="html"><![CDATA[Kate Murphy, the author of You’re not listening, considers herself a professional listener. Her job as a journalist and report stories pushes her to pay close attention to the people she talks to and her being good at her job is uniquely linked to her listening skills. She would however disagree with this. Not the bit about her being a good listener, but the uniqueness of listening we seem to associate with her profession. She believes that almost every job today requires us to collaborate which in turn depends on how we listen to each other. It is that what makes good listening so important today. I try to summarise my key lessons from this book below.]]></summary></entry></feed>

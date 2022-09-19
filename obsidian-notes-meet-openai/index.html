@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>
+    Obsidian notes meet OpenAI - Infermuse
+    
+  </title>
+
+  <meta name="description" content="In my previous post, I discussed how my approach to keeping book notes in Obsidian tries to leverage the “mo-connections-mo-retention” aspect of our brain. T...">
+
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/obsidian-notes-meet-openai/">
+  <link rel="alternate" type="application/rss+xml" title="Infermuse" href="/feed.xml">
+
+</head>
+
+
+<body>
+
+  <!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="/">Infermuse</a>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+
+<header class="masthead" style="background-image: url('/wp-content/uploads/2022/05/pexels-zachary-debottis-1888883-1.jpeg')">
+  
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+            <h1>Obsidian notes meet OpenAI</h1>
+            
+            <h2 class="subheading">Finding connections between my Obsidian book notes using OpenAI</h2>
+            
+            <span class="meta">Posted by
+              <a href="#">Ujjwal</a>
+              on May 30, 2022 &middot; <span class="reading-time" title="Estimated read time">
+  
+   5 mins  read </span>
+
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+
+        <p>In my previous post, I discussed how my approach to <a href="https://infermuse.com/obsidian-workflow-for-book-notes/">keeping book notes in Obsidian</a> tries to leverage the “mo-connections-mo-retention” aspect of our brain. That idea however, is heavily dependent on how we make connections while taking or making notes. Connecting the dots between notes is a “manual” process. One would argue “connecting” is “synthesis” and it needs to be manual and thought out, but surely we can find a better way 😉</p>
+
+<h5 id="connecting-notes">Connecting notes</h5>
+
+<p>I am writing down three methods you can use to find connections between notes. I use a combination of these three but I feel there’s a smarter approach lurking around somewhere.</p>
+
+<ul>
+  <li>Memory – recall something that is connecting to something that you’re working on right now (can be highly erratic based on how well you remember your previous notes)</li>
+  <li>Unlinked mentions – you can open up the unlinked mentions of the note to see all the other notes where this note is mentioned but not connected. This relies on keywords in your title (it will literally look for your title in other notes) and is non-fuzzy (for good reason). I use the <a href="https://help.obsidian.md/Advanced+topics/YAML+front+matter">aliases in the frontmatter</a> so the search for unlinked mentioned includes the aliases (so your note titled “How to Argue” with aliases “Forming an argument” or “Argumentative Indians” can have a higher chance of being linked elsewhere) but even that is bound by how creative you can get while assigning aliases to your notes.</li>
+  <li>Local graph – visually seek nearby items or items that are connected on nth degree</li>
+</ul>
+
+<p>The right way to do this would be to leverage the fast growing Artificial Intelligence or Semantic Search algorithms to help us connect the dots that aren’t easily visible.</p>
+
+<h5 id="enter-open-ai-embeddings">Enter Open AI embeddings</h5>
+
+<p>OpenAI is an AI research lab that is pushing out a lot of ready to use AI models that you can use in your applications. Think things like classifications, semantic search, completions, etc.</p>
+
+<p>An “embedding” is a vector representation (in simple terms it is a list of numbers) of a piece of text’s semantic representation across thousands of parameters (think parameters like category, sub category, genre, gender, voice, etc ). The closer the distance between two vectors, the more semantically close they are to each other.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/05/download.png" alt="CoSINE similarity between two vectors " srcset="    /assets/resized/download-320x64.png 320w,    /assets/resized/download-480x95.png 480w, /wp-content/uploads/2022/05/download.png 503w" /></p>
+
+<p>To use OpenAI’s models you need to signup to their waitlist. I recently got in and have been blown away by the possibilities. In the rest of this post, I deep dive into the code that I used to run OpenAI’s embeddings system on my notes to find non-obvious connections between my notes.</p>
+
+<p><em>For the purpose of this exercise, I stuck to finding connections between the book notes of my vault which also helped keep the costs down on OpenAI (you get $18 of free credits to get you started and I intend to stretch it as long as I humanely can</em> 😁<em>).</em></p>
+
+<h5 id="the-setup">The setup</h5>
+
+<p>This is going to be a simple 4 step process</p>
+
+<ol>
+  <li>Load up all the notes in a Pandas DataFrame to make it easy to run the computations (also easy to load up and dump data in .CSV format)</li>
+  <li>Run embeddings on my notes to generate their vector representations and them dump into another .CSV file</li>
+  <li>Find the top 5 semantically similar notes by using an algorithm called cosine similarity (distance between two vectors)</li>
+</ol>
+
+<h5 id="the-results">The results</h5>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/05/notes-1160x482.png" alt="" srcset="    /assets/resized/notes-1160x482-320x133.png 320w,    /assets/resized/notes-1160x482-480x199.png 480w,    /assets/resized/notes-1160x482-800x332.png 800w, /wp-content/uploads/2022/05/notes-1160x482.png 1160w" /></p>
+
+<p>The long and short of it is I was able to connect ideas I didn’t originally think were related. My notes on <strong>In group bias</strong> found to be connected to <strong>Echo chambers</strong>, notes on <strong>Tunnel vision</strong> connected with <strong>First Principles</strong>, <strong>Implementation Intention</strong> with <strong>Commitment and Consistency</strong> bias and so on. Some of these seem super obvious now but I given had over 700 notes across 55 books, I wasn’t able to connect and synthesise them when i was originally working on them.</p>
+
+<p>My sense is <strong>a semantically capable AI can act as a wingman of sorts</strong> while you make notes. I am way too occupied in my day to day responsibilities to work on an Obsidian plugin but if someone’s interested they are welcome to use my rough code as a foundation. <a href="https://github.com/ujj/obsidian-notes-meets-openai">Here’s the github repo</a>. Happy Hacking!</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>
+
+
+        <hr>
+
+        <div class="clearfix">
+
+          
+          <a class="btn btn-primary float-left" href="/obsidian-workflow-for-book-notes/" data-toggle="tooltip" data-placement="top" title="Obsidian workflow for book notes">&larr; Previous<span class="d-none d-md-inline">
+              Post</span></a>
+          
+          
+          <a class="btn btn-primary float-right" href="/how-to-argue/" data-toggle="tooltip" data-placement="top" title="How to argue">Next<span class="d-none d-md-inline">
+              Post</span> &rarr;</a>
+          
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Footer -->
+
+<hr>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <ul class="list-inline text-center">
+          
+          
+          
+          
+          
+          
+        </ul>
+        <p class="copyright text-muted">Copyright &copy;  2022</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/vendor/startbootstrap-clean-blog/js/scripts.js"></script>
+
+<script src="/assets/scripts.js"></script>
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+
+
+</body>
+
+</html>
