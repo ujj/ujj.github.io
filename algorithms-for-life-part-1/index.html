@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>
+    Algorithms for life - 1 - Infermuse
+    
+  </title>
+
+  <meta name="description" content="Algorithms to live by is the first book that I read again, right after finishing it. It is filled with practical wisdom and connects real life problems with ...">
+
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/algorithms-for-life-part-1/">
+  <link rel="alternate" type="application/rss+xml" title="Infermuse" href="/feed.xml">
+
+</head>
+
+
+<body>
+
+  <!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="/">Infermuse</a>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+
+<header class="masthead" style="background-image: url('/wp-content/uploads/2022/10/algorithms-for-life-1.jpeg')">
+  
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+            <h1>Algorithms for life - 1</h1>
+            
+            <h2 class="subheading">Practical lessons from computer science from the book "Algorithms to live by"</h2>
+            
+
+            <span class="meta">
+              October 04, 2022 &middot; <span class="reading-time" title="Estimated read time">
+  
+   7 mins  read </span>
+
+            </span>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+
+        <p><a href="https://www.amazon.com/Algorithms-to-Live-By-audiobook/dp/B01D24NAL6/ref=sr_1_1?crid=56G25J7CEAT3&amp;keywords=algorithms+to+live+by&amp;qid=1664875020&amp;qu=eyJxc2MiOiIyLjA0IiwicXNhIjoiMS42MyIsInFzcCI6IjEuNzQifQ%3D%3D&amp;sprefix=algorithms+to+live+by%2Caps%2C1282&amp;sr=8-1">Algorithms to live by</a> is the first book that I read again, right after finishing it. It is filled with practical wisdom and connects real life problems with computing and mathematical theory. In this post and the next, I will try to summarise my key takeaways from the book.</p>
+
+<h3 id="knowing-when-to-stop">Knowing when to stop</h3>
+
+<p>We encounter scenarios in life when we don’t know when is the right time to stop looking for solutions. Think situations like driving through a parking lane while looking for a spot. If you stop and park at the first empty stop, you may have to walk a long way but if you keep looking for a stop closer to the destination, you might miss out on a spot altogether. Mathematically speaking, these situations are called <em>optimal stopping</em> problems. The optimal solution of this problem dictates that you can stop after having looked at 37% of your available options and then go with when you find an option that beats all the others you’ve seen before.</p>
+
+<p>For the first 37% of the time or options, you’re only looking and gathering information (creating a baseline). In some cases the available options could be in the form of time you’ve set to look for a parking. So if you plan on spending 10 mins looking for a spot, spend the first 4 minutes simply exploring the lot and then pick the first one that beats all the previous spots (beat here means matches your criteria best).</p>
+
+<h3 id="balancing-searching-and-sorting">Balancing searching and sorting</h3>
+
+<p>Sorting is arranging items in a certain predefined order so it becomes easier to find a specific item. Like with anything, sorting takes effort and time and this time is well spent if we eventually use the sorted dataset to search for an item. In that sense, sorting and searching are tradeoffs on time. Which algorithm to employ to organise your files, wardrobe or pictures, depends on your specific retrieval needs and it makes sense to spend time thinking about organisation as it will save you time in the long run.</p>
+
+<p>Similarly, in nature, a pecking order can be thought of as a sorting algorith. The objective of this ordering is to make it effortless (read: bloodless) to determine who is dominant in any given situation. Even basic societal rules like respecting your elders, nature’s hierarchies in the wild, basic maritime laws like gross tonnage, etc, are ways of managing the same tradeoff of sort v search.</p>
+
+<h3 id="caching-and-memory">Caching and memory</h3>
+
+<p>Just as sorting allows for faster search, our memory is dependent on how information is organised so it can aid faster retrieval. We have infinite capacity for storing memories but can only spend a finite time searching for memories. Forgetting something, is thus, similar to a cache, an organisation problem 🤯</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2022/10/folders.jpg" alt="file used recently goes to the left" srcset="    /assets/resized/folders-320x288.jpg 320w,    /assets/resized/folders-480x433.jpg 480w, /wp-content/uploads/2022/10/folders.jpg 800w" />
+File used recently goes to the leftmost slot</p>
+
+<p>Something recently used is more likely to be used again and thus must be kept closest to us. The weird looking filing trays we see in some offices, may actually be a smart way to prioritise stuff. The file you used most recently goes back to the leftmost tray and the other ones slide right. That’s it. That’s the algorithm right there.</p>
+
+<p>Since you are likely to need something you used most recently, always go for the left most tray to look for it. This is the Noguchi filing system and it is a real world physical adaptation of the least recently used cache.</p>
+
+<h3 id="scheduling-in-real-life">Scheduling in real life</h3>
+
+<p>There are many different metrics to optimise when it comes to what we should work on. Sometimes the goal is to minimise overall lateness (unit - time, like in case of managing your washer and dryer), sometimes it is to minimise the number of late tasks (unit - number, consuming rotting produce in the fridge in some order) and sometimes it is to reduce the overall waiting time for someone blocked on us (clients who have given us several tasks). Each metric demands its own strategy. The goal must be to balance the different kinds of metrics. For example <em>responsiveness</em> and <em>throughput</em>. Your customer support team may need to be responsive so that your engineers can have throughput and so on.</p>
+
+<p>Sometimes it may just be prudent to get the easiest thing done and out of the way and sometimes it may make sense to spend time to pick the most consequential item and do it first (to reduce the wait of the task with the highest importance/time ). This sounds like a good one size fit-most approach for most scheduling problems.</p>
+
+<p>A common problem emanating from this is <em>thrashing</em>. There is always a fixed bookkeeping cost, no matter what kinds of tasks you have on your plate. When a juggler is given one more ball than he can manage, he doesn’t just drop that ball but all other balls. When tasks steal resources from each other or remove the meta work done by another task to do its own meta work, it is called Thrashing.</p>
+
+<p>Another important concept that comes in handy is <em>interrupt coalescing</em>. This is when you wait for similar tasks to accumulate and do them all at once to save time on bookkeeping each individual task of the same kind. It also saves <em>context switching</em>, which is the time and energy that gets spent on moving from one kind of task to another. Imagine getting interrupted to answer a question while you’re in the middle of writing an email to placate a customer. It takes time to think of the answer, actually answer and then get back to writing the email. The idea therefore must be to minimise interruptions, so you can get all the tasks of one kind done in one go and then move on to the next kind.</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet</a> about startup life and practical wisdom in books.</p>
+
+
+        <hr>
+
+        <div class="clearfix">
+
+          
+          <a class="btn btn-primary float-left" href="/the-value-of-procrastination/" data-toggle="tooltip" data-placement="top" title="The value of procrastination">&larr; Previous<span class="d-none d-md-inline">
+              Post</span></a>
+          
+          
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+
+<hr>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <ul class="list-inline text-center">
+          
+          
+          
+          
+          
+          
+        </ul>
+        <p class="copyright text-muted">Copyright &copy;  2022</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/vendor/startbootstrap-clean-blog/js/scripts.js"></script>
+
+<script src="/assets/scripts.js"></script>
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+
+
+</body>
+
+</html>
