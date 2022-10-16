@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>
+    Algorithms for life - 2 - Infermuse
+    
+  </title>
+
+  <meta name="description" content="In my last post part 1 of Algorithms for life, I discussed some learnings from the book Algorithms to live by. This post is the continuation of the same. Let...">
+
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="https://infermuse.com/algorithms-for-life-part-2/">
+  <link rel="alternate" type="application/rss+xml" title="Infermuse" href="/feed.xml">
+
+</head>
+
+
+<body>
+
+  <!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="/">Infermuse</a>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+
+<header class="masthead" style="background-image: url('/wp-content/uploads/2022/10/algorithms-for-life-2.jpeg')">
+  
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+            <h1>Algorithms for life - 2</h1>
+            
+            <h2 class="subheading">Part 2 of practical lessons from the book "Algorithms to live by"</h2>
+            
+
+            <span class="meta">
+              October 16, 2022 &middot; <span class="reading-time" title="Estimated read time">
+  
+   9 mins  read </span>
+
+            </span>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+
+        <p>In my last post <a href="https://www.infermuse.com/algorithms-for-life-part-1/">part 1 of Algorithms for life</a>, I discussed some learnings from the book
+<a href="https://www.amazon.com/Algorithms-to-Live-By-audiobook/dp/B01D24NAL6/ref=sr_1_1?crid=56G25J7CEAT3&amp;keywords=algorithms+to+live+by&amp;qid=1664875020&amp;qu=eyJxc2MiOiIyLjA0IiwicXNhIjoiMS42MyIsInFzcCI6IjEuNzQifQ%3D%3D&amp;sprefix=algorithms+to+live+by%2Caps%2C1282&amp;sr=8-1">Algorithms to live by</a>. This post is the continuation of the same. Let’s jump right into it.</p>
+
+<h3 id="probability-in-life">Probability in life</h3>
+
+<p>This is one of the meaty parts of the book. Life is filled with probabilistic occurances and those who can navigate uncertainity, generally live a much more fulfilling life. The book discusses Bayes theorem which is about using “priors” or existing knowledge about a given situation to make predictions about the future. I have discussed Baye’s theorem in detail in my post on my post on <a href="https://www.infermuse.com/lessons-from-thinking-fast-slow-part-1/">Thinking fast &amp; slow</a>.</p>
+
+<p>The Laplace’s law can be used to make general predictions after a series of observations. Imagine having to predict the percentage of overall winning tickets in a lottery after seeing how many tickets won in the latest 10 draws. The law states that the probability of a winning ticket is the number of winning tickets in the last 10 draws plus 1, divided by the total number of tickets drawn plus 1.</p>
+
+<blockquote>
+  <p>(w+1)/(n+1)
+where <em>w</em> is the number of winning tickets and <em>n</em> is the total number of tickets drawn.</p>
+</blockquote>
+
+<p>So if in the first 10 draws, there were 2 winners, the probability of a winning ticket in the next draw is 3/11. This is a very simple example but it can be used to make predictions in a lot of situations.</p>
+
+<p>Another interesting principle to internalise is the Copernican principle (also known as the Lindy effect) which formalises the intuition that old is gold. Something that has been around for x years, is likely to continue to stay around for x more years. This principle was used in World War II to estimate how many tanks the Germans were producing every month by looking at the VIN numbers of the tanks found by the Allies.</p>
+
+<p>Finally, one of the most important concepts in probability is the distributions that surround us. A distribution describes the likelihood of occurances in a group setup. Normal distribution or the bell curve distribution, has more occurances in the centre. You can make average predictions and be right most of the time, for example, someone at the median age is likely to live more than someone who is very near the extremes of the curve. Power law distributions are in which events are not normal and most items are not clustered around the average but lie in some specific extremes. Events like box office earnings, venture capital returns, etc, follow the power law. The book also discusses Erlang distributions which can be thought of as an intermediate between normal and power law distributions, where the tails are fatter than normal but not as fat as power law distributions. In events following erlang distributions the predictions can be constant. For example, the number of people who will show up at a party is likely to be constant or the amount of time people spend on a call is likely to be constant. Erlang distributions are also used in call centres to estimate the number of agents required to handle a given number of calls.</p>
+
+<h3 id="overfitting">Overfitting</h3>
+
+<p>Overfitting is when we try to fit a model to a given situation and end up making it too complex. In life too, we tend to overthink and develop a complicated understanding of what’s happening around us. In reality, truth is often far too simple. Overfitting is a common problem in machine learning and the way to avoid it, is to add a regularisation parameter which penalises the model for being too complex. In life, we can use the same principle to avoid overfitting. We can use the principle of Occam’s razor to avoid overfitting. Occam’s razor states that the simplest explanation is the most likely to be true. This is a very powerful principle to keep in mind. This probably also explains our evolutionary wiring of heuristics and our inhrent fast thinking.</p>
+
+<h3 id="a-bit-of-randomness-goes-a-long-way">A bit of randomness goes a long way</h3>
+
+<p>Taleb has written extensively about how to avoid being fooled by randomness and also how to build yourself to thrive in uncertainity. This book discusses an interesting concept of <a href="https://en.wikipedia.org/wiki/Simulated_annealing">annealing</a> which is a process of letting a system warm up (introducing randomness) and then cool down (perform optimisations like hill climbing to reach a local maxima) and doing these regularly to hit what seems like a global maxima. This technique was used by the authors of this famous paper to design chips with more transistors than other known techniques of the time.</p>
+
+<p>Introducing a bit of randomness can be used to break stale mates and direct us towards more creative solutions. <a href="https://www.atlassian.com/team-playbook/plays/disruptive-brainstorming#instructions">Disruptive brainstorming</a> sessions, like the one described by Atlassian, are quite popular where random concepts are introduced to direct the participants to incorporate them in their ideas, often leading to novel innovations.</p>
+
+<p>One other advantage of randomness is using it to create algorithms like Bloom filters that us to be somewhat sure of our solution quickly rather than seek out the perfectly optimal solution everytime. Contrary to common belief, this is quite preferable in many situations like cyber security.</p>
+
+<h3 id="game-theory-in-action">Game theory in action</h3>
+
+<p>Game theory is a deep field that studies how people interact in different situations. Looked at through this lens, almost all interactions are games with each player looking to maximise their payoffs. The famous prisoners dillema is a game where two players are put in a situation where they can either cooperate or defect. If both players cooperate, they both get a payoff of 3. If both defect, they both get a payoff of 1. If one player defects and the other cooperates, the defector gets a payoff of 5 and the cooperator gets a payoff of 0. In this situation defecting is the optimal strategy for both players. The book discusses how this game is played in real life and how it can be used to make predictions about how people will behave in different situations.</p>
+
+<p>Price of anarchy is the difference between the payoffs arising due to the “always defect” and “always hold out”, i.e. 100% competitive and 100% cooperative strategies in a prisoners dillemma like game. A low price of anarchy means the system is stable and doesn’t need a managing centralised authority. A high price of anarchy on the other hand, like the one described in the prisoner’s dillema above, requires external intervention. The book discusses how the price of anarchy can be used to predict the stability of a system and also to design mechanisms around us. The classic problem of tragedy of commons. The profits from overgrazing common land accrue to you alone while the losses, get amortized over everyone. This is a classic case of a high price of anarchy.</p>
+
+<p>Mechanism design is the reverse of game theory. It is utilising our knowledge of equilibriums and creating a game where the equilibrium is beneficial for all the players. Imagine in the prisoners dillemma there is a Godfather of a crime syndicate that bans defection in jails (or else the accused sleeps with the fish). This will move the equilibrium from always defect to always hold out.</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet</a> about startup life and practical wisdom in books.</p>
+
+
+        <hr>
+
+        <div class="clearfix">
+
+          
+          <a class="btn btn-primary float-left" href="/algorithms-for-life-part-1/" data-toggle="tooltip" data-placement="top" title="Algorithms for life - 1">&larr; Previous<span class="d-none d-md-inline">
+              Post</span></a>
+          
+          
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+
+<hr>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <ul class="list-inline text-center">
+          
+          
+          
+          
+          
+          
+        </ul>
+        <p class="copyright text-muted">Copyright &copy;  2022</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/vendor/startbootstrap-clean-blog/js/scripts.js"></script>
+
+<script src="/assets/scripts.js"></script>
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,21 @@
+A	@	44.232.59.242	600 seconds		
+
+NS	@	ns65.domaincontrol.com.	1 Hour	
+Can't delete
+Can't edit
+
+NS	@	ns66.domaincontrol.com.	1 Hour	
+Can't delete
+Can't edit
+
+CNAME	www	infermuse-2139785640.us-west-2.elb.amazonaws.com.	1 Hour		
+
+CNAME	_c30f1fe87bdb009918c97b10536f17f1	_a77139a756ab8542d66fd5a3634191d6.jfrzftwwjs.acm-validations.aws.	1 Hour		
+
+CNAME	_ca72110e15aaa8a61c2aa5c2adcd78ac.www	_a233f66578cb07c9c5de13edd16ceb83.rvctyfnwhz.acm-validations.aws.	1 Hour		
+
+CNAME	_domainconnect	_domainconnect.gd.domaincontrol.com.	1 Hour		
+
+SOA	@	Primary nameserver: ns65.domaincontrol.com.	1 Hour		
+
+TXT	@	google-site-verification=rxeQeKU03RJCER4xgAmzrf4dXzLkdA9TdIAIGKb-lzM	1 Hour		
