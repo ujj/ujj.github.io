@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://infermuse.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infermuse.com/" rel="alternate" type="text/html" /><updated>2022-11-12T19:14:13+05:30</updated><id>https://infermuse.com/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">BS detection 101</title><link href="https://infermuse.com/bs-detection-101/" rel="alternate" type="text/html" title="BS detection 101" /><published>2022-11-12T14:07:20+05:30</published><updated>2022-11-12T14:07:20+05:30</updated><id>https://infermuse.com/bs-detection-101</id><content type="html" xml:base="https://infermuse.com/bs-detection-101/"><![CDATA[<p>In this post, I am trying to describe 5 methods I use regularly to avoid being made a sucker. This in no way an exhaustive list, but I hope it will help you in your day to day life.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://infermuse.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infermuse.com/" rel="alternate" type="text/html" /><updated>2022-11-12T19:32:18+05:30</updated><id>https://infermuse.com/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">BS detection 101</title><link href="https://infermuse.com/bs-detection-101/" rel="alternate" type="text/html" title="BS detection 101" /><published>2022-11-12T14:07:20+05:30</published><updated>2022-11-12T14:07:20+05:30</updated><id>https://infermuse.com/bs-detection-101</id><content type="html" xml:base="https://infermuse.com/bs-detection-101/"><![CDATA[<p>In this post, I am trying to describe 5 methods I use regularly to avoid being made a sucker. This in no way an exhaustive list, but I hope it will help you in your day to day life.</p>
 
 <h2 id="when-it-doesnt-add-up">When it “doesn’t add up”</h2>
 
@@ -6,19 +6,19 @@
 
 <ol>
   <li>See if what you’re hearing matches your own personal experience.</li>
-  <li>Are there any scientific studies that back the claims being made by the person?</li>
-  <li>What does your friends’ experience or experience of those you know, tell you? Does it match or contradict the claims being made?</li>
-  <li>Does it fall in the bucket of common sense?</li>
+  <li>Does any scientific data back the claims being made?</li>
+  <li>Does your friends’ experience or experience of those you know match the claims being made?</li>
+  <li>Does common sense agree with it?</li>
   <li>Finally, what do the experts in the field say about it?</li>
 </ol>
 
-<p>Shoot for consistencies across these parameters to evaluate if something is true of fiction. For example, if you read a study that says eating chocolate cake helps in weight loss and your personal experience and friends experience suggests otherwise along with common sense that eating high caloric food cannot lead to weight loss, you can say with some surety that it’s BS.</p>
+<p>Shoot for consistencies across these parameters to evaluate if something is true or fiction. For example, if you read a study that says eating chocolate cake helps in weight loss and your personal experience and friends’ experience suggests otherwise plus common sense that eating high caloric food cannot lead to weight loss, you can say with some surety that it’s BS.</p>
 
-<h2 id="look-for-assymetries-of-risk">Look for assymetries of risk</h2>
+<h2 id="look-for-assymetries-in-risk">Look for assymetries in risk</h2>
 
-<p>This is the easiest strategy to detect BS. Usually comes in handy when you’re being sold something. If you detect that by conducting the business in the manner presented, the other party stands to risk a lot less (usually 0) in comparison to you, that’s the moment to rethink things. This is also often called the agency bias.</p>
+<p>This is the easiest strategy to detect BS when it comes to financial matters. Usually comes in handy when you’re being sold financial planning or asset management. If you detect that by conducting the business in the manner presented, the other party stands to risk a lot less (usually 0) in comparison to you, that’s the moment to rethink things.</p>
 
-<p>We must be wary of the cost we incur by relying on authority figures or experts who have no “skin in the game” by doing their business (ex: managing our assets). For optimum results, their incentives must be aligned with ours. If you lose money, they should too. If you hurt yourself, they should suffer as well. The technical term for this is “moral hazard”  - where the risk taker is immune to the effects of her actions.</p>
+<p>This is also often called the agency cost, ie. the cost we incur by relying on authority figures or experts who have no “skin in the game” by doing their business (ex: managing our assets). For optimum results, their incentives must be aligned with ours. If you lose money, they should too. If you hurt yourself, they should suffer as well. The technical term for this is “moral hazard”  - where the risk taker is immune to the effects of her actions.</p>
 
 <h2 id="complicated-statistics-or-data">Complicated statistics or data</h2>
 
