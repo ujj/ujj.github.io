@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://infermuse.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infermuse.com/" rel="alternate" type="text/html" /><updated>2022-10-16T14:45:24+05:30</updated><id>https://infermuse.com/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">Algorithms for life - 2</title><link href="https://infermuse.com/algorithms-for-life-part-2/" rel="alternate" type="text/html" title="Algorithms for life - 2" /><published>2022-10-16T12:07:20+05:30</published><updated>2022-10-16T12:07:20+05:30</updated><id>https://infermuse.com/algorithms-for-life-part-2</id><content type="html" xml:base="https://infermuse.com/algorithms-for-life-part-2/"><![CDATA[<p>In my last post <a href="https://www.infermuse.com/algorithms-for-life-part-1/">part 1 of Algorithms for life</a>, I discussed some learnings from the book
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://infermuse.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://infermuse.com/" rel="alternate" type="text/html" /><updated>2022-11-12T19:14:13+05:30</updated><id>https://infermuse.com/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">BS detection 101</title><link href="https://infermuse.com/bs-detection-101/" rel="alternate" type="text/html" title="BS detection 101" /><published>2022-11-12T14:07:20+05:30</published><updated>2022-11-12T14:07:20+05:30</updated><id>https://infermuse.com/bs-detection-101</id><content type="html" xml:base="https://infermuse.com/bs-detection-101/"><![CDATA[<p>In this post, I am trying to describe 5 methods I use regularly to avoid being made a sucker. This in no way an exhaustive list, but I hope it will help you in your day to day life.</p>
+
+<h2 id="when-it-doesnt-add-up">When it “doesn’t add up”</h2>
+
+<p>Scott Adams, the man behind the affable Dilbert cartoon, in his book “How to fail at everything”, described his BS detection method as follows:</p>
+
+<ol>
+  <li>See if what you’re hearing matches your own personal experience.</li>
+  <li>Are there any scientific studies that back the claims being made by the person?</li>
+  <li>What does your friends’ experience or experience of those you know, tell you? Does it match or contradict the claims being made?</li>
+  <li>Does it fall in the bucket of common sense?</li>
+  <li>Finally, what do the experts in the field say about it?</li>
+</ol>
+
+<p>Shoot for consistencies across these parameters to evaluate if something is true of fiction. For example, if you read a study that says eating chocolate cake helps in weight loss and your personal experience and friends experience suggests otherwise along with common sense that eating high caloric food cannot lead to weight loss, you can say with some surety that it’s BS.</p>
+
+<h2 id="look-for-assymetries-of-risk">Look for assymetries of risk</h2>
+
+<p>This is the easiest strategy to detect BS. Usually comes in handy when you’re being sold something. If you detect that by conducting the business in the manner presented, the other party stands to risk a lot less (usually 0) in comparison to you, that’s the moment to rethink things. This is also often called the agency bias.</p>
+
+<p>We must be wary of the cost we incur by relying on authority figures or experts who have no “skin in the game” by doing their business (ex: managing our assets). For optimum results, their incentives must be aligned with ours. If you lose money, they should too. If you hurt yourself, they should suffer as well. The technical term for this is “moral hazard”  - where the risk taker is immune to the effects of her actions.</p>
+
+<h2 id="complicated-statistics-or-data">Complicated statistics or data</h2>
+
+<p>In business and in life, always choose simplicity. Whenever you find yourself at the receiving end of a series of complicated statistics, it’s a red flag. The more complicated the data, the more likely it is to be manipulated or cherry picked to suit a particular narrative. Always spend some time going over the data in an open minded fashion while also asking for more data that may be related and that may help you make the decision. Always remember, “what you see is not all there is”.</p>
+
+<h2 id="use-of-compliance-techniques">Use of compliance techniques</h2>
+
+<p>Bob Cialdini, in his seminal book <a href="https://www.infermuse.com/lessons-from-robert-cialdinis-influence/">Influence</a>, described a series of influencing techniques used by people who gain something from getting you to comply to their seemingly inoccuous requests. He called these people “compliance practioners” - you can imagine them all to be car salesmen.</p>
+
+<p>Look out for these 6 techniques.</p>
+
+<ol>
+  <li>Pretending to be like you by saying they have friends in the same city or grew up in your part of world. We all like people like us and this gives them an edge.</li>
+  <li>Anchoring you to a higher price to move your baseline and getting you to overspend. The most common example is a realtor showing you two bad properties and then the one they want to sell you.</li>
+  <li>Offering you free food or samples to trigger your reciprocity drive (it’s way too powerful) and get you to buy something.</li>
+  <li>Telling you about other people you know who did business with them and give you social proof that they are reliable and trustworthy.</li>
+  <li>Proclaiming support of “experts” (who may not even be real experts or even if they are, they are usually paid to do it). The most common example of this is people pretending to be dentists appearing on toothpaste ads on TV.</li>
+  <li>Getting you to create a self image for yourself in your mind. Once a self image is created, you are forced to remain consistent with it by doing things you may not otherwise do. Imagine walking down the street and someone asks you if you care about the environment. You say yes and they pull out a donation form for an environmental charity. You will be forced to donate to the charity.</li>
+</ol>
+
+<p>These can all be used in combination as well so be on the lookout for when more than one of them is being employed together.</p>
+
+<h2 id="looking-the-part">Looking the part</h2>
+
+<p>Taleb, in his book, Skin in the game, described how appearances can persuade us. We all want our doctors to “look the part”. They should be refined and polished and should “look like a doctor”. Taleb argues that if looks are so persuasive, then it probably means that we should strive to find a doctor who doesn’t look like a doctor. The logic is that if, they don’t look the part, and yet are still where they are, then they must be really good as they have overcome the bias against them. This is counter intuitive but seems to make sense once you start thinking how biases work and how other people perceive you.</p>
+
+<p>To be honest this one isn’t something I have been able to avoid yet. I still prefer my doctor to look like a polished doctor, my financial advisor to wear a suit and my restaurants by how clean its glass windows are and how well lit it is. But I am trying to be more open minded about this.</p>
+
+<p><em>More on this list as I make more BS detection rules.</em></p>
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet</a> about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Lifehacks" /><summary type="html"><![CDATA[In this post, I am trying to describe 5 methods I use regularly to avoid being made a sucker. This in no way an exhaustive list, but I hope it will help you in your day to day life.]]></summary></entry><entry><title type="html">Algorithms for life - 2</title><link href="https://infermuse.com/algorithms-for-life-part-2/" rel="alternate" type="text/html" title="Algorithms for life - 2" /><published>2022-10-16T12:07:20+05:30</published><updated>2022-10-16T12:07:20+05:30</updated><id>https://infermuse.com/algorithms-for-life-part-2</id><content type="html" xml:base="https://infermuse.com/algorithms-for-life-part-2/"><![CDATA[<p>In my last post <a href="https://www.infermuse.com/algorithms-for-life-part-1/">part 1 of Algorithms for life</a>, I discussed some learnings from the book
 <a href="https://www.amazon.com/Algorithms-to-Live-By-audiobook/dp/B01D24NAL6/ref=sr_1_1?crid=56G25J7CEAT3&amp;keywords=algorithms+to+live+by&amp;qid=1664875020&amp;qu=eyJxc2MiOiIyLjA0IiwicXNhIjoiMS42MyIsInFzcCI6IjEuNzQifQ%3D%3D&amp;sprefix=algorithms+to+live+by%2Caps%2C1282&amp;sr=8-1">Algorithms to live by</a>. This post is the continuation of the same. Let’s jump right into it.</p>
 
 <h3 id="probability-in-life">Probability in life</h3>
@@ -385,29 +437,4 @@ File used recently goes to the leftmost slot</p>
 
 <hr />
 
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Lifehacks" /><summary type="html"><![CDATA[How some moments become more deeply etched in our memories and how to create more of them]]></summary></entry><entry><title type="html">How attention works</title><link href="https://infermuse.com/how-attention-works/" rel="alternate" type="text/html" title="How attention works" /><published>2022-04-28T16:15:00+05:30</published><updated>2022-04-28T16:15:00+05:30</updated><id>https://infermuse.com/how-attention-works</id><content type="html" xml:base="https://infermuse.com/how-attention-works/"><![CDATA[<p>It is imperative we understand how attention works in today’s world. Not just to prevent ourselves from getting distracted but also to be able to hold other people’s attention to get things done. This post is my learnings on how attention works from a variety of sources. This is super dumbed down version that helped me wrap my head around this esoteric concept so if you’re somehow an expert who’s bumped into this, I probably should apologise upfront 😊</p>
-
-<p>Let’s start with the basics. The 4 steps in which something gains our attention (attention here referring to becoming the primary thread of our thinking infrastructure). Evan in his <a href="https://twitter.com/evanlapointe/status/1337049634578067458">twitter thread</a> explains this wonderfully but my summary follows.</p>
-
-<p><img class="img-fluid" src="/wp-content/uploads/2022/04/Attention-1160x773.png" alt="how attention works" srcset="    /assets/resized/Attention-1160x773-320x213.png 320w,    /assets/resized/Attention-1160x773-480x320.png 480w,    /assets/resized/Attention-1160x773-800x533.png 800w, /wp-content/uploads/2022/04/Attention-1160x773.png 1160w" /></p>
-
-<ol>
-  <li>Whatever we see or hear hits our Thalamus that looks for novelty. Is what we’re saying or showing, really interesting or looks beautiful? The human mind had to encourage capture of newness around us to help protect against threats but this threat detection system is what makes it all oh so interesting (read on).</li>
-  <li>Next we encounter the Amygdala, assessing for threats. Threats not just of physical kind but those that hurt our ego or challenge our worldviews. These threats induce stress which is the same as a life threatening situation like seeing a snake in the grass would trigger. This is where things get super hard but also interesting. While announcing the support for Microsoft for iTunes in 2003, Steve Jobs did not start by explaining the logic of why Apple had decided to build iTunes for the PC. He did not get into how important it was for iTunes to be on a platform that had 90% market share, to win over the music industry. He understood how Mac faithfuls would perceive this as treachery and addressed it point blank. This is how we must strive to move forward too, by addressing emotions first.</li>
-  <li>Next, the Hippocampus looks up any relevant memories and runs a pattern matching algo to connect this new information to something we already know. While delivering a lecture or talk, we can make it easier for people by helping connect the dots ourselves. The more things a piece of information connects to, the better it is retained and understood.</li>
-  <li>It’s after jumping the 3 hoops mentioned before, does something reach the s l o w thinking part of the brain.</li>
-</ol>
-
-<p><img class="img-fluid" src="/wp-content/uploads/2022/04/1605257815647.jpeg" alt="Steve Jobs, 2003" srcset="    /assets/resized/1605257815647-320x180.jpeg 320w,    /assets/resized/1605257815647-480x270.jpeg 480w, /wp-content/uploads/2022/04/1605257815647.jpeg 800w" /></p>
-
-<p>Chris Bailey in <a href="https://infermuse.com/lessons-from-hyperfocus/">Hyperfocus</a> talks about taking control of attention as being the first step to becoming productive. “Intention before attention” is a point that he makes regularly. To make our workdays productive and our life more meaningful we need to take control of what our mind deems important and then make changes in the way we think and work.</p>
-
-<p>One of the factors that affect our attention is the “working memory” also called “attention space”. Depending on our sleep levels, mood, and whether we are a morning lark or a night owl, our mind has varying attention space at any time. This space determines how much information we can keep in our mind at any time. The more we can control our attention, the easier it is to get to Flow.</p>
-
-<p>Dr Medina talks about the role of <a href="https://infermuse.com/lessons-from-brain-rules/#:~:text=where%20everyone%20is.-,ATTENTION%C2%A0,-THE%20MACINTOSH%20AD">Emotionally Charged Stimuli</a> (ECS) in attention and memory, in his book Brain Rules. A key aspect of attention is the relevance of “meaning before details” and importance of gists. By taking a top down approach of proving a hierarchy of building blocks and then expanding on each block, we make it easy to hold people’s attention.</p>
-
-<p>Finally, our ability to listen and make authentic connections is also linked to attention. Genuine connections are an integral part of relationships and if we don’t pay attention to what is truly important for a good life, we are setting ourselves up for a mediocre one. Don’t let important people in your life become residual beneficiaries of your time. Schedule time for them, like you would a meeting.</p>
-
-<hr />
-
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Lifehacks" /><category term="Productivity" /><summary type="html"><![CDATA[It is imperative we understand how attention works in today’s world. Not just to prevent ourselves from getting distracted but also to be able to hold other people’s attention to get things done. This post is my learnings on how attention works from a variety of sources. This is super dumbed down version that helped me wrap my head around this esoteric concept so if you’re somehow an expert who’s bumped into this, I probably should apologise upfront 😊]]></summary></entry></feed>
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Lifehacks" /><summary type="html"><![CDATA[How some moments become more deeply etched in our memories and how to create more of them]]></summary></entry></feed>
