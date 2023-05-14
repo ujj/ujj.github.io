@@ -1,4 +1,144 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-30T09:21:56+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">Handling Objections</title><link href="http://localhost:4000/handling-objections/" rel="alternate" type="text/html" title="Handling Objections" /><published>2023-04-08T08:00:05+05:30</published><updated>2023-04-08T08:00:05+05:30</updated><id>http://localhost:4000/handling-objections</id><content type="html" xml:base="http://localhost:4000/handling-objections/"><![CDATA[<p>The book <a href="https://www.amazon.com/Objections-audiobook/dp/B07RQVYZQZ/ref=sr_1_1?keywords=objections+jeb+blount&amp;qid=1682825855&amp;sprefix=objections+je%2Caps%2C447&amp;sr=8-1">Objections</a>, by Jeb Blount, a seasoned sales expert, is a fantastic book on handling objections in sales. It is a must-read for anyone who is in sales or is building a startup. The book is full of practical advice and is a great reference book to keep coming back to. According to Blount, effective sales is essentially about two things</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-14T11:33:56+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">Practical lessons from The Mom Test</title><link href="http://localhost:4000/practical-insights-from-the-mom-test/" rel="alternate" type="text/html" title="Practical lessons from The Mom Test" /><published>2023-05-14T00:00:02+05:30</published><updated>2023-05-14T00:00:02+05:30</updated><id>http://localhost:4000/practical-insights-the-mom-test</id><content type="html" xml:base="http://localhost:4000/practical-insights-from-the-mom-test/"><![CDATA[<p>The Mom Test is a short book on how to ask questions about your product. It is a must read for anyone who is building a product or a startup. The book is full of practical advice and is a great reference book to keep coming back to. I have tried to summarize the key points below. The key takeaway for me was the attitude shift that is needed to ask questions. We must seek understanding our users and their life and not validation of our ideas. All the advise in the book stands on this key mental shift.</p>
+
+<h5 id="switching-from-pitching-to-learning">Switching from pitching to learning</h5>
+
+<p>When we go in pitch mode, we sound desperate and people can smell it. Since most people are uncomfortable in offering bad news or criticism, they will often say things like “that’s a great idea” or “I would totally use it” or “I know someone who would love this”. These are all lies and they are not born out of malice but by our poor questions and behaviors. The zeroth law of user research is to be in the learning frame of mind.</p>
+
+<p>According to Fitzpatrick, a good conversation process has the following steps</p>
+
+<ol>
+  <li>Slice your customer base into as thin segments as possible - so you can answer who they are and where you can find them</li>
+  <li>Write down your goals - what can be good possible next steps</li>
+  <li>Vision-Framing-Weakness-Pedestal-Ask - this is a framing tactic. You must frame the conversation to discuss your vision about a particular problem and explain what stage you’re in. Show them your weaknesses or vulnerability about your solution and put them on a pedestal and say why you think their opinion matters. Finally, ask for help.</li>
+  <li>Set up commital next steps - discussed in the last section</li>
+  <li>Ask good questions - described in the next section</li>
+  <li>Go through notes with team - all your learnings from the customers are relevant only if they are transmitted throughout your team</li>
+</ol>
+
+<h5 id="there-are-good-questions-and-bad-questions">There are good questions and bad questions</h5>
+
+<p>While most of us can do with more user disussions than we already do, there are indeed some questions that we can avoid asking.</p>
+
+<p>These are some bad questions.</p>
+
+<ol>
+  <li>Do you think its a good idea? - this is loaded and makes you want to hear self indulgent noise which you can do without.</li>
+  <li>Would you ever buy something that lets you do X? - forces them to wax lyrical about a hypothetical future.</li>
+  <li>How much you pay for X/would you pay X for Y? - this has some benefits but it should never be framed this way.</li>
+</ol>
+
+<p>These questions below are absolutely worth trying out.</p>
+
+<ol>
+  <li>How do you do X or can you show me? Another version would be “talk me through the last time x happened”.</li>
+  <li>How much does it cost you? or how much does that matter (implications) - this is a better way to understand their willingness to pay.</li>
+  <li>Why do you care about this problem or why does it even matter? Helps understand actual customer goals and not their idea of what it solves.</li>
+  <li>What else have you tried?</li>
+  <li>Who else should I talk to?</li>
+  <li>Did I miss anything or should I have asked you to anything specific?</li>
+</ol>
+
+<p>Some things to keep in mind while coming up questions</p>
+
+<ol>
+  <li>Ask questions that can potentially break or make the business. Don’t be afraid of scary questions or shrinking from legal issues.</li>
+  <li>Welcome bad news. In fact seek out information that can kill your idea. The sooner you get to that, the faster you will be able to fix it or move on to the next idea.</li>
+  <li>Spot the lukewarm response and dig deeper. Don’t let people get away with vague answers. Ask them to be specific and give examples.</li>
+  <li>Don’t zoom in too quickly. Don’t get too feature oriented or get into stack ranking needs before you’ve mapped the overall landscape through the customer lens.</li>
+</ol>
+
+<p>The bottom line is to keep them talking and helping you understand them well enough to build something they will love.</p>
+
+<h5 id="spotting-bad-data">Spotting bad data</h5>
+
+<p>Conversations, especially the ones that are not run with care, can lead to bad data that makes us wrongly confident. This is how bad data comes to us.</p>
+
+<ul>
+  <li>Complements - if any complements come your way deflect and come back on track. get suspicious as soon as you hear a complement.</li>
+  <li>Fluff - generic ramblings. Ignore and get to specifics.</li>
+  <li>“I always or generally do X” - ask them what/how they did last X.</li>
+  <li>“I would definitely buy that in the future” - don’t ask would you ever instead ask “do you see yourself doing..”</li>
+  <li>Hypothetical maybes - people generally describe who they want to be and not who they are. They also complain unnecessarily. Asking for specifics on how they deal with X, can reveal if they are indeed being honest. Be wary of “someone should definitely build X” cause more often than not, X’s exist and people don’t necessarily care about it enough to find it.</li>
+  <li>Their ideas - handle feature requests by understanding the true motivation behind it. It can either be a generic request of the type “this seems like a killer feature” but with no way to back it up with why its so important or crucial. Or it can be based on them having employed a workaround and knowing what it costs them in time/money. The latter is a good signal to build something.</li>
+</ul>
+
+<h5 id="stop-fishing-for-compliments-fish-for-committments">Stop fishing for compliments, fish for committments</h5>
+
+<p>The best way to get people to commit to something is to ask them to do something small and low risk. This is called the foot in the door technique. Once they have committed to something small, they are more likely to commit to something bigger. This is called the consistency bias. This was a key insight in the book <a href="https://www.infermuse.com/handling-objections">Objections</a> as well.</p>
+
+<p>A good customer meeting or a fruitful conversation ends in clear next steps. The best meetings end in committments which can include</p>
+
+<ol>
+  <li>Pre-orders, paid pilot, deposits, etc.</li>
+  <li>Introductions to other people - peers, friends, bosses.</li>
+  <li>A public testimonal - they are ready to put their name on it</li>
+  <li>A pilot</li>
+</ol>
+
+<p>Poor conversations or meetings end in a vague committment and compliment. “This is great, keep me posted” or “drop me a note when you launch”. If you receive any of these, ask them what else would they like to see for you to move to next steps.</p>
+
+<h5 id="how-to-get-conversations-going">How to get conversations going</h5>
+
+<p>There are several ways to get busy with customer conversations.</p>
+
+<ol>
+  <li>Organise events - become the centre of attention (“Office Mangers Happy Hour”)</li>
+  <li>Teaching - free one on one consulting/webinars</li>
+  <li>Blogging - write about your industry and get people to comment</li>
+  <li>I am writing a book/PhD dissertation - people will always talk to you (related to the pedestal point)</li>
+  <li>Advisory Board - get people to join your advisory board (everyone wants to help someone else, few know how to do it)</li>
+</ol>
+
+<p>You can even cold email people to help but cold emails are tricky. You can use the same <em>Vision-Framing-Weakness-Pedestal-Ask</em> framework.</p>
+
+<ol>
+  <li>Establish you’re an entrepreneur - state your high level vision (not the specific idea)</li>
+  <li>Frame the expectations - tell them you’re not going to sell</li>
+  <li>Show weakness - how you’re looking to get some questions answered</li>
+  <li>Put them on a pedestal - why you think their experience matters to you</li>
+  <li>Ask them for help - ask the “good questions” like the ones discussed above.</li>
+</ol>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Business" /><summary type="html"><![CDATA[The Mom Test is a short book on how to ask questions about your product. It is a must read for anyone who is building a product or a startup. The book is full of practical advice and is a great reference book to keep coming back to. I have tried to summarize the key points below. The key takeaway for me was the attitude shift that is needed to ask questions. We must seek understanding our users and their life and not validation of our ideas. All the advise in the book stands on this key mental shift.]]></summary></entry><entry><title type="html">Lessons from the book New Power</title><link href="http://localhost:4000/lessons-from-the-book-new-power/" rel="alternate" type="text/html" title="Lessons from the book New Power" /><published>2023-04-08T08:00:05+05:30</published><updated>2023-04-08T08:00:05+05:30</updated><id>http://localhost:4000/lessons-from-new-power</id><content type="html" xml:base="http://localhost:4000/lessons-from-the-book-new-power/"><![CDATA[<p>The book <a href="https://www.amazon.com/New-Power-audiobook/dp/B0731GZPWP/ref=sr_1_1?crid=2HPMGN20RYGA1&amp;keywords=new+power+book&amp;qid=1680928858&amp;sprefix=new+power+bo%2Caps%2C580&amp;sr=8-1">New Power</a>, by Jeremy Heimans and Henry Timms, explores the new power structures that are emerging in the world and how they are changing the way we live, work and play. The book is a great read for anyone who is interested in learning how we can leverage these changes to build movements and brands that matter. I’ll try and summarise my key takeaways from the book in this post.</p>
+
+<h5 id="new-power-models-and-new-power-values">New power models and new power values</h5>
+
+<p>The book talks about the new power models that are emerging in the world and how they are entirely different from old power models. The old power models rely on authority, commands and ownership while the new power models relies on values of openness, collaboration, transparency, and participation. The new power emerges from activities of the crowd. The MeToo movement, ISIS recruitment using social media, opatients using platforms like <em>patientslikeme</em> to discuss and learn from other patients on managing their similar diseases, etc, are all examples of new power models. A nice analogy to think about the old and new power models is look at the classic game Tetris in which you get tiles decided by the computer and then it overwhlems you eventually. Minecraft, on the other hand, is participatory. Other players create worlds for you and the game is about building on top of what others have created.</p>
+
+<p>Old power values are managerism, institutionalism, top down governance, confidientiality, discretion, expertise, professionalism, loyalty, etc. New power values are informal networked governance, collaboration, crowd wisdom, short term conditional affiliation, part time participation, openness, radical transparency, etc. Here’s a neat graphic to think about how the old power models and values can mix and match in a 2x2 quadrant.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2023/04/old-new-power.png" alt="Old and new power models and values" srcset="    /assets/resized/old-new-power-320x215.png 320w,    /assets/resized/old-new-power-480x323.png 480w,    /assets/resized/old-new-power-800x539.png 800w, /wp-content/uploads/2023/04/old-new-power.png 1200w" /></p>
+
+<h5 id="how-ideas-spread">How ideas spread</h5>
+
+<p>There are some common aspects about ideas that spread (or movements that go viral). One example that is referenced in the book and that I also happen to recall from a few years ago was the ALS Ice Bucket Challenge. The challenge was to pour a bucket of ice water on your head and then nominate 3 other people to do the same. The challenge went viral and raised millions of dollars for ALS research. The book talks about the acronym ACE that spells out the three main aspects of the challenge that made it go viral.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2023/04/als-ice-bucket.jpeg" alt="ALS Ice Bucket challenge" srcset="    /assets/resized/als-ice-bucket-320x483.jpeg 320w, /wp-content/uploads/2023/04/als-ice-bucket.jpeg 440w" /></p>
+
+<ol>
+  <li>Action - they make us act in a certain way. The ALS ice bucket challenge, challenges us to pour ice water on your head. It is important to be less cynical about the actions, no matter how small they are. Gladwell defined “weak ties activism” or “clicktivism” as tiny irrelevant acts done on the internet that have weak or no correlation with the end objective but in reality, movements like blacklivesmatter, have shown that you can always move people from low participation to high participation. The challenge is to find the right action that will move people from low to high participation.</li>
+  <li>Connected - promote peer connection with people who share common values. A key part of the ALS challenge was to nominate others to do the same. This kickstarts a network effect. Social media platforms like Facebook and Twitter are great at promoting connectedness. The book talks about how the ALS challenge was able to leverage the power of social media to spread the challenge virally.</li>
+  <li>Extensible - can be altered or extended by people on their own while keeping the core idea safe. People innovated on their videos while still feeling they were joined to a common cause. This is based on the optimal distinctiveness theory. An ideal new power group should make its members feel like a part of a larger group and yet have potential for individual expression.</li>
+</ol>
+
+<h5 id="how-to-build-new-power-communities">How to build new power communities</h5>
+
+<p>New power communities can be thought of as a triangle. This new power triangle is composed of the owners of the platform (and overarching rules), second are its participants (consumers and ordinary creators) and final side is the super participants, those who produce or consume a whole lot more than ordinary participants and keep the platform humming. Around this triangle are other factors like the following.</p>
+
+<ol>
+  <li>How much power or agency to give to participants - The Occupy movement became so democratic that they lost steam as they kept debating within each other and the right way to come to decisions. While top down bureaucratic decisions also don’t work, the right balance is to give participants enough power to make decisions but not too much that they lose focus.</li>
+  <li>Feedback loops from participants - what works, what doesn’t and to what extent.</li>
+  <li>How to manage super participants - so that they keep producing and consuming more and more.</li>
+  <li>Incentives and rewards - keep bringing the users back for more. Etsy’s 3.5% fees, Lyft returning the full commission post a driver crossing a weekly hour number, meetup upfront fees to host events, etc</li>
+  <li>Recognition and statuses - karma points, blue tick, superadmins, etc. Perhaps this is linked to incentives but it is important to distinguish between the two. Recognition and status is about how you are perceived by others. Incentives are about how you are rewarded by the platform.</li>
+  <li>Participation premium - think of it like this equation <em>something you’re selling + higher purpose * participation</em>.  Decouples the value of the product from the price paid by the participants. The example of Starcitizens comes to mind. Starcitizens are a community formed around a space travel game that is in design. It’s members have already enjoyed benefits of a community of a niche shared interest even before the game is launched. Xiaomi also first created community of cellphone design enthusiasts that leverages the <em>ikea effect</em> as participants pay more for stuff for which they played a role to build.</li>
+</ol>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet</a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Lifehacks" /><category term="Business" /><summary type="html"><![CDATA[The book New Power, by Jeremy Heimans and Henry Timms, explores the new power structures that are emerging in the world and how they are changing the way we live, work and play. The book is a great read for anyone who is interested in learning how we can leverage these changes to build movements and brands that matter. I’ll try and summarise my key takeaways from the book in this post.]]></summary></entry><entry><title type="html">Handling Objections</title><link href="http://localhost:4000/handling-objections/" rel="alternate" type="text/html" title="Handling Objections" /><published>2023-04-08T08:00:05+05:30</published><updated>2023-04-08T08:00:05+05:30</updated><id>http://localhost:4000/handling-objections</id><content type="html" xml:base="http://localhost:4000/handling-objections/"><![CDATA[<p>The book <a href="https://www.amazon.com/Objections-audiobook/dp/B07RQVYZQZ/ref=sr_1_1?keywords=objections+jeb+blount&amp;qid=1682825855&amp;sprefix=objections+je%2Caps%2C447&amp;sr=8-1">Objections</a>, by Jeb Blount, a seasoned sales expert, is a fantastic book on handling objections in sales. It is a must-read for anyone who is in sales or is building a startup. The book is full of practical advice and is a great reference book to keep coming back to. According to Blount, effective sales is essentially about two things</p>
 
 <ol>
   <li>Snapping the buyer out of their habitual responses to your questions, and</li>
@@ -93,44 +233,7 @@
 <p>To summarise, rejection avoidance is hardwired into our biology. We learn to fear it and thus avoid it making us emotionally vulnerable and opens us upto losing control of our emotions and goofing up our situations. The most effective sales people know that objections are a part of the decision making process and instead of not seeking them or fearing them, theytry to get them out on the table earlier and handle them in a prepared fashion.</p>
 <hr />
 
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet</a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Lifehacks" /><category term="Business" /><summary type="html"><![CDATA[The book Objections, by Jeb Blount, a seasoned sales expert, is a fantastic book on handling objections in sales. It is a must-read for anyone who is in sales or is building a startup. The book is full of practical advice and is a great reference book to keep coming back to. According to Blount, effective sales is essentially about two things]]></summary></entry><entry><title type="html">Lessons from the book New Power</title><link href="http://localhost:4000/lessons-from-the-book-new-power/" rel="alternate" type="text/html" title="Lessons from the book New Power" /><published>2023-04-08T08:00:05+05:30</published><updated>2023-04-08T08:00:05+05:30</updated><id>http://localhost:4000/lessons-from-new-power</id><content type="html" xml:base="http://localhost:4000/lessons-from-the-book-new-power/"><![CDATA[<p>The book <a href="https://www.amazon.com/New-Power-audiobook/dp/B0731GZPWP/ref=sr_1_1?crid=2HPMGN20RYGA1&amp;keywords=new+power+book&amp;qid=1680928858&amp;sprefix=new+power+bo%2Caps%2C580&amp;sr=8-1">New Power</a>, by Jeremy Heimans and Henry Timms, explores the new power structures that are emerging in the world and how they are changing the way we live, work and play. The book is a great read for anyone who is interested in learning how we can leverage these changes to build movements and brands that matter. I’ll try and summarise my key takeaways from the book in this post.</p>
-
-<h5 id="new-power-models-and-new-power-values">New power models and new power values</h5>
-
-<p>The book talks about the new power models that are emerging in the world and how they are entirely different from old power models. The old power models rely on authority, commands and ownership while the new power models relies on values of openness, collaboration, transparency, and participation. The new power emerges from activities of the crowd. The MeToo movement, ISIS recruitment using social media, opatients using platforms like <em>patientslikeme</em> to discuss and learn from other patients on managing their similar diseases, etc, are all examples of new power models. A nice analogy to think about the old and new power models is look at the classic game Tetris in which you get tiles decided by the computer and then it overwhlems you eventually. Minecraft, on the other hand, is participatory. Other players create worlds for you and the game is about building on top of what others have created.</p>
-
-<p>Old power values are managerism, institutionalism, top down governance, confidientiality, discretion, expertise, professionalism, loyalty, etc. New power values are informal networked governance, collaboration, crowd wisdom, short term conditional affiliation, part time participation, openness, radical transparency, etc. Here’s a neat graphic to think about how the old power models and values can mix and match in a 2x2 quadrant.</p>
-
-<p><img class="img-fluid" src="/wp-content/uploads/2023/04/old-new-power.png" alt="Old and new power models and values" srcset="    /assets/resized/old-new-power-320x215.png 320w,    /assets/resized/old-new-power-480x323.png 480w,    /assets/resized/old-new-power-800x539.png 800w, /wp-content/uploads/2023/04/old-new-power.png 1200w" /></p>
-
-<h5 id="how-ideas-spread">How ideas spread</h5>
-
-<p>There are some common aspects about ideas that spread (or movements that go viral). One example that is referenced in the book and that I also happen to recall from a few years ago was the ALS Ice Bucket Challenge. The challenge was to pour a bucket of ice water on your head and then nominate 3 other people to do the same. The challenge went viral and raised millions of dollars for ALS research. The book talks about the acronym ACE that spells out the three main aspects of the challenge that made it go viral.</p>
-
-<p><img class="img-fluid" src="/wp-content/uploads/2023/04/als-ice-bucket.jpeg" alt="ALS Ice Bucket challenge" srcset="    /assets/resized/als-ice-bucket-320x483.jpeg 320w, /wp-content/uploads/2023/04/als-ice-bucket.jpeg 440w" /></p>
-
-<ol>
-  <li>Action - they make us act in a certain way. The ALS ice bucket challenge, challenges us to pour ice water on your head. It is important to be less cynical about the actions, no matter how small they are. Gladwell defined “weak ties activism” or “clicktivism” as tiny irrelevant acts done on the internet that have weak or no correlation with the end objective but in reality, movements like blacklivesmatter, have shown that you can always move people from low participation to high participation. The challenge is to find the right action that will move people from low to high participation.</li>
-  <li>Connected - promote peer connection with people who share common values. A key part of the ALS challenge was to nominate others to do the same. This kickstarts a network effect. Social media platforms like Facebook and Twitter are great at promoting connectedness. The book talks about how the ALS challenge was able to leverage the power of social media to spread the challenge virally.</li>
-  <li>Extensible - can be altered or extended by people on their own while keeping the core idea safe. People innovated on their videos while still feeling they were joined to a common cause. This is based on the optimal distinctiveness theory. An ideal new power group should make its members feel like a part of a larger group and yet have potential for individual expression.</li>
-</ol>
-
-<h5 id="how-to-build-new-power-communities">How to build new power communities</h5>
-
-<p>New power communities can be thought of as a triangle. This new power triangle is composed of the owners of the platform (and overarching rules), second are its participants (consumers and ordinary creators) and final side is the super participants, those who produce or consume a whole lot more than ordinary participants and keep the platform humming. Around this triangle are other factors like the following.</p>
-
-<ol>
-  <li>How much power or agency to give to participants - The Occupy movement became so democratic that they lost steam as they kept debating within each other and the right way to come to decisions. While top down bureaucratic decisions also don’t work, the right balance is to give participants enough power to make decisions but not too much that they lose focus.</li>
-  <li>Feedback loops from participants - what works, what doesn’t and to what extent.</li>
-  <li>How to manage super participants - so that they keep producing and consuming more and more.</li>
-  <li>Incentives and rewards - keep bringing the users back for more. Etsy’s 3.5% fees, Lyft returning the full commission post a driver crossing a weekly hour number, meetup upfront fees to host events, etc</li>
-  <li>Recognition and statuses - karma points, blue tick, superadmins, etc. Perhaps this is linked to incentives but it is important to distinguish between the two. Recognition and status is about how you are perceived by others. Incentives are about how you are rewarded by the platform.</li>
-  <li>Participation premium - think of it like this equation <em>something you’re selling + higher purpose * participation</em>.  Decouples the value of the product from the price paid by the participants. The example of Starcitizens comes to mind. Starcitizens are a community formed around a space travel game that is in design. It’s members have already enjoyed benefits of a community of a niche shared interest even before the game is launched. Xiaomi also first created community of cellphone design enthusiasts that leverages the <em>ikea effect</em> as participants pay more for stuff for which they played a role to build.</li>
-</ol>
-
-<hr />
-
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet</a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Lifehacks" /><category term="Business" /><summary type="html"><![CDATA[The book New Power, by Jeremy Heimans and Henry Timms, explores the new power structures that are emerging in the world and how they are changing the way we live, work and play. The book is a great read for anyone who is interested in learning how we can leverage these changes to build movements and brands that matter. I’ll try and summarise my key takeaways from the book in this post.]]></summary></entry><entry><title type="html">Bringing awe into our lives</title><link href="http://localhost:4000/bringing-awe-into-to-life/" rel="alternate" type="text/html" title="Bringing awe into our lives" /><published>2023-03-12T08:00:05+05:30</published><updated>2023-03-12T08:00:05+05:30</updated><id>http://localhost:4000/bringing-awe-into-life</id><content type="html" xml:base="http://localhost:4000/bringing-awe-into-to-life/"><![CDATA[<p>Awe is a type of emotion that has many affable qualities. Dacher Keltner’s book <a href="https://www.amazon.com/Awe-Science-Everyday-Wonder-Transform/dp/B09YMNCBQD/ref=sr_1_1?keywords=awe+the+new+science+of+everyday+wonder&amp;qid=1678590561&amp;sprefix=AWE+%2Caps%2C664&amp;sr=8-1">Awe</a> talks about the role of awe in our lives and how it can inspire creativity, bring down stress and help us lead the good life. It lists down 8 simple ways we can find awe in our daily life.</p>
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet</a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Lifehacks" /><category term="Business" /><summary type="html"><![CDATA[The book Objections, by Jeb Blount, a seasoned sales expert, is a fantastic book on handling objections in sales. It is a must-read for anyone who is in sales or is building a startup. The book is full of practical advice and is a great reference book to keep coming back to. According to Blount, effective sales is essentially about two things]]></summary></entry><entry><title type="html">Bringing awe into our lives</title><link href="http://localhost:4000/bringing-awe-into-to-life/" rel="alternate" type="text/html" title="Bringing awe into our lives" /><published>2023-03-12T08:00:05+05:30</published><updated>2023-03-12T08:00:05+05:30</updated><id>http://localhost:4000/bringing-awe-into-life</id><content type="html" xml:base="http://localhost:4000/bringing-awe-into-to-life/"><![CDATA[<p>Awe is a type of emotion that has many affable qualities. Dacher Keltner’s book <a href="https://www.amazon.com/Awe-Science-Everyday-Wonder-Transform/dp/B09YMNCBQD/ref=sr_1_1?keywords=awe+the+new+science+of+everyday+wonder&amp;qid=1678590561&amp;sprefix=AWE+%2Caps%2C664&amp;sr=8-1">Awe</a> talks about the role of awe in our lives and how it can inspire creativity, bring down stress and help us lead the good life. It lists down 8 simple ways we can find awe in our daily life.</p>
 
 <h5 id="the-cool-thing-about-awe">The cool thing about awe</h5>
 
@@ -482,56 +585,4 @@ Giving and receiving both are shown to be linked to mental well-being so there a
 <p>Timing of an apology is one of the most important aspects of it. There is a range of time when issuing an apology is effective and meaningful. One can apologise too quickly or too late. Apologise too quickly and risk being coming across as insincere and robotic. Apologise too slowly and risk coming across as unremorseful. The right time to apologise is when you have had time to reflect on your actions and have a clear understanding of the impact of your actions on the other person but not too much time that it offers little or no value to the other person.</p>
 <hr />
 
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet</a> about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Lifehacks" /><category term="Human Psychology" /><summary type="html"><![CDATA[In a Chemistry lab, for specific reactions to take place, we often need just the right kind of conditions. Not too warm, not too cold. Often it is the last drop of the reactive agent that induces the reaction. Our planet Earth too, is said to be in the perfectly right orbit, at the perfectly right distance from the Sun, has just the right chemical composition, the right amount of water, etc, to sustain life. This effect is popularly called the Goldilocks zone (alluding to the story of the three bears with three porridges of varrying degree of hotness, of three beds in different sizes, etc). The Goldilocks zone is the range of values that are just right for a particular reaction to take place.]]></summary></entry><entry><title type="html">BS detection 101</title><link href="http://localhost:4000/bs-detection-101/" rel="alternate" type="text/html" title="BS detection 101" /><published>2022-11-12T14:07:20+05:30</published><updated>2022-11-12T14:07:20+05:30</updated><id>http://localhost:4000/bs-detection-101</id><content type="html" xml:base="http://localhost:4000/bs-detection-101/"><![CDATA[<p>In this post, I am trying to describe 5 methods I use regularly to avoid being made a sucker. This in no way an exhaustive list, but I hope it will help you in your day to day life.</p>
-
-<h2 id="when-it-doesnt-add-up">When it “doesn’t add up”</h2>
-
-<p>Scott Adams, the man behind the affable Dilbert cartoon, in his book “How to fail at everything”, described his BS detection method as follows:</p>
-
-<ol>
-  <li>See if what you’re hearing matches your own personal experience.</li>
-  <li>Does any scientific data back the claims being made?</li>
-  <li>Does your friends’ experience or experience of those you know match the claims being made?</li>
-  <li>Does common sense agree with it?</li>
-  <li>Finally, what do the experts in the field say about it?</li>
-</ol>
-
-<p>Shoot for consistencies across these parameters to evaluate if something is true or fiction. For example, if you read a study that says eating chocolate cake helps in weight loss and your personal experience and friends’ experience suggests otherwise plus common sense that eating high caloric food cannot lead to weight loss, you can say with some surety that it’s BS.</p>
-
-<h2 id="look-for-assymetries-in-risk">Look for assymetries in risk</h2>
-
-<p>This is the easiest strategy to detect BS when it comes to financial matters. Usually comes in handy when you’re being sold financial planning or asset management. If you detect that by conducting the business in the manner presented, the other party stands to risk a lot less (usually 0) in comparison to you, that’s the moment to rethink things.</p>
-
-<p>This is also often called the agency cost, ie. the cost we incur by relying on authority figures or experts who have no “skin in the game” by doing their business (ex: managing our assets). For optimum results, their incentives must be aligned with ours. If you lose money, they should too. If you hurt yourself, they should suffer as well. The technical term for this is “moral hazard”  - where the risk taker is immune to the effects of her actions.</p>
-
-<h2 id="complicated-statistics-or-data">Complicated statistics or data</h2>
-
-<p>In business and in life, always choose simplicity. Whenever you find yourself at the receiving end of a series of complicated statistics, it’s a red flag. The more complicated the data, the more likely it is to be manipulated or cherry picked to suit a particular narrative. Always spend some time going over the data in an open minded fashion while also asking for more data that may be related and that may help you make the decision. Always remember, “what you see is not all there is”.</p>
-
-<h2 id="use-of-compliance-techniques">Use of compliance techniques</h2>
-
-<p>Bob Cialdini, in his seminal book <a href="https://www.infermuse.com/lessons-from-robert-cialdinis-influence/">Influence</a>, described a series of influencing techniques used by people who gain something from getting you to comply to their seemingly inoccuous requests. He called these people “compliance practioners” - you can imagine them all to be car salesmen.</p>
-
-<p>Look out for these 6 techniques.</p>
-
-<ol>
-  <li>Pretending to be like you by saying they have friends in the same city or grew up in your part of world. We all like people like us and this gives them an edge.</li>
-  <li>Anchoring you to a higher price to move your baseline and getting you to overspend. The most common example is a realtor showing you two bad properties and then the one they want to sell you.</li>
-  <li>Offering you free food or samples to trigger your reciprocity drive (it’s way too powerful) and get you to buy something.</li>
-  <li>Telling you about other people you know who did business with them and give you social proof that they are reliable and trustworthy.</li>
-  <li>Proclaiming support of “experts” (who may not even be real experts or even if they are, they are usually paid to do it). The most common example of this is people pretending to be dentists appearing on toothpaste ads on TV.</li>
-  <li>Getting you to create a self image for yourself in your mind. Once a self image is created, you are forced to remain consistent with it by doing things you may not otherwise do. Imagine walking down the street and someone asks you if you care about the environment. You say yes and they pull out a donation form for an environmental charity. You will be forced to donate to the charity.</li>
-</ol>
-
-<p>These can all be used in combination as well so be on the lookout for when more than one of them is being employed together.</p>
-
-<h2 id="looking-the-part">Looking the part</h2>
-
-<p>Taleb, in his book, Skin in the game, described how appearances can persuade us. We all want our doctors to “look the part”. They should be refined and polished and should “look like a doctor”. Taleb argues that if looks are so persuasive, then it probably means that we should strive to find a doctor who doesn’t look like a doctor. The logic is that if, they don’t look the part, and yet are still where they are, then they must be really good as they have overcome the bias against them. This is counter intuitive but seems to make sense once you start thinking how biases work and how other people perceive you.</p>
-
-<p>To be honest this one isn’t something I have been able to avoid yet. I still prefer my doctor to look like a polished doctor, my financial advisor to wear a suit and my restaurants by how clean its glass windows are and how well lit it is. But I am trying to be more open minded about this.</p>
-
-<p><em>More on this list as I make more BS detection rules.</em></p>
-<hr />
-
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet</a> about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Lifehacks" /><summary type="html"><![CDATA[In this post, I am trying to describe 5 methods I use regularly to avoid being made a sucker. This in no way an exhaustive list, but I hope it will help you in your day to day life.]]></summary></entry></feed>
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet</a> about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Lifehacks" /><category term="Human Psychology" /><summary type="html"><![CDATA[In a Chemistry lab, for specific reactions to take place, we often need just the right kind of conditions. Not too warm, not too cold. Often it is the last drop of the reactive agent that induces the reaction. Our planet Earth too, is said to be in the perfectly right orbit, at the perfectly right distance from the Sun, has just the right chemical composition, the right amount of water, etc, to sustain life. This effect is popularly called the Goldilocks zone (alluding to the story of the three bears with three porridges of varrying degree of hotness, of three beds in different sizes, etc). The Goldilocks zone is the range of values that are just right for a particular reaction to take place.]]></summary></entry></feed>
