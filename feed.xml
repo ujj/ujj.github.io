@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-28T16:03:18+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">How not to argue</title><link href="http://localhost:4000/how-not-to-argue/" rel="alternate" type="text/html" title="How not to argue" /><published>2023-08-28T12:28:27+05:30</published><updated>2023-08-28T12:28:27+05:30</updated><id>http://localhost:4000/how-not-to-argue</id><content type="html" xml:base="http://localhost:4000/how-not-to-argue/"><![CDATA[<p>I previously wrote <a href="https://www.infermuse.com/how-to-argue/">How to Argue</a> which was a collection of tips on how to have fruitful discussions. This post is a follow up to that post and is inspired by the book <a href="https://www.amazon.com/Whats-Our-Problem-Self-Help-Societies/dp/B0BVGH6T1Q/ref=sr_1_1?keywords=whats+our+problem&amp;qid=1693216187&amp;sr=8-1">Whats our problem</a> by Tim Urban. My previous post talked about how to get the best out of a discussion by keeping an open mind, this post describes some common pitfalls that can derail a discussion. Before we can jump into what to avoid, it makes sense to understand the higher and the lower mind thesis and the different ways we defend our opinions.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-06T10:44:30+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">Designing incentives that work</title><link href="http://localhost:4000/designing-incentives-that-work/" rel="alternate" type="text/html" title="Designing incentives that work" /><published>2023-10-05T09:28:27+05:30</published><updated>2023-10-05T09:28:27+05:30</updated><id>http://localhost:4000/designing-incentives-that-work</id><content type="html" xml:base="http://localhost:4000/designing-incentives-that-work/"><![CDATA[<p>As an entrpreneur, product and people manager, I often find myself needing to design incentives that affect people’s behaviors. If your read the last sentence and the image formed in your head was that of a dangling carrot on a stick, i’ll request you to ignore it. I am talking about creating an environment where some really smart people become open to changing their behaviour ever so slightly to achieve a larger goals. I wouldn’t blame you for the image that formed in your head though, as incentives are often used in a very crude manner and are often counter productive. In his book <a href="https://www.amazon.com/Mixed-Signals-Incentives-Really-Work/dp/B0BT5SW1RT/ref=sr_1_4?crid=2ZKM6B767T896&amp;keywords=mixed+signals&amp;qid=1696566311&amp;sprefix=mi%2Caps%2C1005&amp;sr=8-4">Mixed Signals</a>, Uri Gneezy, describes in detail how incentives can be used to achieve desired outcomes or mixed signaling be avoided that leads to incentives that aim to improve one thing but focus on another. I have tried to summarise the key learnings from the book below.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2023/10/horsecarrot.png" alt="Horse carrot stick by Dall-E" srcset="    /assets/resized/horsecarrot-320x320.png 320w,    /assets/resized/horsecarrot-480x480.png 480w,    /assets/resized/horsecarrot-800x800.png 800w, /wp-content/uploads/2023/10/horsecarrot.png 1024w" /> 
+<em>Not the image you should have when you think of incentives</em></p>
+
+<h3 id="what-is-signaling">What is signaling?</h3>
+
+<p>Signaling in this context refers to the social cues that we send out to others. Signals are a credible way to indicate your values, abilities, aspirations and preferences. We all indulge in one or the other type of signaling but if the signal is easy to adapt it can be copied and if it is too loud it can come across as inauthentic. A rich person may not want people to know that they want them to know they are rich. Thus enter, Rolexes. The real Biker culture has strong signals like conspicuous tattoos on the neck and arms. This is to identify real bikers and eliminate casual bikers who can also buy bikes &amp; riding gear which are, in comparison, cheap signals.</p>
+
+<p>Through policies we can force a person to send a very strong signal or a weak signal for specific things. Disney World, for example, allows free tickets for kids under 3. People often lie about their kids’ age but if DW began asking children their age directly, two things can happen</p>
+
+<ol>
+  <li>Kids will tell their true age and DW will eliminate the problem</li>
+  <li>Parents will instruct their kids in advance on lying about their age which will sort of persist the problem to some extent.</li>
+</ol>
+
+<p>Notice what is really happening with the second point. Parents are being asked to teach lying to their kids which is a strong signal to the parents that the price of the ticket is worth teaching kids to lie. This is a very strong signal and most parents won’t do it. This is a very crude example but it illustrates the point of how one can design policies and incentives that use the signaling mechanism to achieve desired outcomes.</p>
+
+<h3 id="avoiding-mixed-signaling">Avoiding mixed signaling</h3>
+
+<p>Another important aspect of using signals is avoiding sending mixed signals. It is usually borne out of encouraging something but incentivising another. For instance, encouraging quality of deliverables but giving bonuses for quantity or encouraging long term goal alignment but praising short term milestones.</p>
+
+<p>This is usually sorted out by adding more dimensions to the incentive structures. For instance, adding a rating system for the end user satisfaction along with evaluating people on quantity. This will ensure that people don’t just focus on quantity but also on quality.</p>
+
+<h3 id="self-v-social-signals">Self v Social Signals</h3>
+
+<p>Most signals are social in that they allow one to communicate their values to others. Driving fuel guzzling semis or choosing to go with hybrid cars is a social signal that you care about the environment. In the early days of hybrid cars, they were seen as pricier options with limited comfort and safety features. However, one shining factor set them apart – their eco-friendly nature. Consumers began embracing hybrid vehicles not just for their fuel economy but to send a powerful message to the world: “We care for the environment, and we’re willing to sacrifice some comforts for it.”</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2023/10/prius.jpeg" alt="Cool prius as a social signal" srcset="    /assets/resized/prius-320x285.jpeg 320w,    /assets/resized/prius-480x428.jpeg 480w, /wp-content/uploads/2023/10/prius.jpeg 800w" /></p>
+
+<p>Enter the Toyota Prius and the Honda Civic, both based on existing models. However, the Prius had a distinct and conspicuous look that drew consumers who wanted to stand out and signal their commitment to environmental causes. As a result, Prius won big. The importance of signaling was underscored by a 2007 survey, revealing that a remarkable 57% of Prius owners chose it to make a statement about themselves, far outweighing those who mentioned fuel economy or reduced emissions.</p>
+
+<p>Self signals are signals that you send to yourself. Self signaling allow people to tell themselves that they are a good person or have certain values. Pay what you want coffee shops that are popping up in the US are a good example of self signaling. People readily pay more than the cost of the coffee because they want to feel good about themselves. The same people will not pay more than the cost of the coffee if they were asked to pay a specific amount. This is called the <em>warm glow effect</em>, what we feel when we help, volunteer or donate. The self signaling mechanism is very powerful and can be used to achieve desired outcomes.</p>
+
+<h3 id="mental-accounting">Mental Accounting</h3>
+
+<p>We all have different mental accounts for various expenses. Think about it; we might spend 20 minutes searching for parking deals to save a few bucks but don’t hesitate to splurge on dessert afterward. The money across these accounts is not interchangeable and the story we tell ourselves to justify our choices are entirely different. While saving on parking is a sound financial choice, ending a family meal with a lovely dessert is a way to elevate a moment and make it memorable. To make incentives truly appealing, we must use the right currency that shapes the narrative we want.</p>
+
+<p>Consider the story of a car review site that offered a $450 discount on car purchases. Surprisingly, this incentive didn’t have the positive impact they expected. Why? The $450 discount on a high-value purchase like a car got lost in the documentation and seemed insignificant. However, when they began offering the same $450 discount as “prepaid gas cards” for the same amount, demand improved significantly. Why? $450 is $450. Or is it?</p>
+
+<p>When it comes to incentives, they can often sit in different mental accounts. In the gas card scenario, buyers know they will need gas and the $450 incentive seems to come across as something extra. Moreover, every time buyers filled up their gas tanks using the free card, they felt smart for making a clever buying decision. This simple shift in the perception of value made all the difference.</p>
+
+<h3 id="regret-minimisation">Regret Minimisation</h3>
+
+<p>Regret is caused by comparing what we did v what we could have done. Regret can also be caused by not exploring a new option. In that sense, exploration is it’s own reward. This is related to the <a href="https://www.infermuse.com/lessons-from-thinking-fast-slow-part-2/">loss aversion</a> concept from Thinking Fast &amp; Slow. We love to avoid regret at all costs. This makes regret a great tool for incentives and driving behaviours.</p>
+
+<p>A classic example of this is the case where someone keeps buying a lottery ticket with the exact same numbers cause he thinks if he stopped buying and those numbers came up as winner, he would regret it immensely 🤷. A similar interesting case was of a lottery company that picked a random postcode from where a final winner will be chosen. This forced people in that postcode to think of a scenario in which someone from their address won the lottery but they didn’t. To avoid that regret, people flocked to buy lottery tickets.</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Human Psychology" /><category term="Lifehacks" /><summary type="html"><![CDATA[As an entrpreneur, product and people manager, I often find myself needing to design incentives that affect people’s behaviors. If your read the last sentence and the image formed in your head was that of a dangling carrot on a stick, i’ll request you to ignore it. I am talking about creating an environment where some really smart people become open to changing their behaviour ever so slightly to achieve a larger goals. I wouldn’t blame you for the image that formed in your head though, as incentives are often used in a very crude manner and are often counter productive. In his book Mixed Signals, Uri Gneezy, describes in detail how incentives can be used to achieve desired outcomes or mixed signaling be avoided that leads to incentives that aim to improve one thing but focus on another. I have tried to summarise the key learnings from the book below.]]></summary></entry><entry><title type="html">How not to argue</title><link href="http://localhost:4000/how-not-to-argue/" rel="alternate" type="text/html" title="How not to argue" /><published>2023-08-28T12:28:27+05:30</published><updated>2023-08-28T12:28:27+05:30</updated><id>http://localhost:4000/how-not-to-argue</id><content type="html" xml:base="http://localhost:4000/how-not-to-argue/"><![CDATA[<p>I previously wrote <a href="https://www.infermuse.com/how-to-argue/">How to Argue</a> which was a collection of tips on how to have fruitful discussions. This post is a follow up to that post and is inspired by the book <a href="https://www.amazon.com/Whats-Our-Problem-Self-Help-Societies/dp/B0BVGH6T1Q/ref=sr_1_1?keywords=whats+our+problem&amp;qid=1693216187&amp;sr=8-1">Whats our problem</a> by Tim Urban. My previous post talked about how to get the best out of a discussion by keeping an open mind, this post describes some common pitfalls that can derail a discussion. Before we can jump into what to avoid, it makes sense to understand the higher and the lower mind thesis and the different ways we defend our opinions.</p>
 
 <h3 id="the-higher-mind-and-the-lower-mind">The higher mind and the lower mind</h3>
 
@@ -471,80 +521,4 @@ Suppression of choice can also lead to a more meaningful interaction with the en
 
 <hr />
 
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet</a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Lifehacks" /><summary type="html"><![CDATA[In his book How to be perfect, Michael Shur, the writer behind shows like The office, Brooklyn Nine-Nine and The Good Place, introduces us to important moral philosophical concepts that help us distinguish right from wrong. Think of it as a 101 moral philosophy course by a really witty and humorous professor.]]></summary></entry><entry><title type="html">Leadership lessons from Unleashed</title><link href="http://localhost:4000/leadership-lessons-from-unleashed/" rel="alternate" type="text/html" title="Leadership lessons from Unleashed" /><published>2023-02-25T00:40:05+05:30</published><updated>2023-02-25T00:40:05+05:30</updated><id>http://localhost:4000/lessons-from-unleashed</id><content type="html" xml:base="http://localhost:4000/leadership-lessons-from-unleashed/"><![CDATA[<p>The book <a href="https://www.amazon.com/Unleashed-Unapologetic-Leaders-Empowering-Everyone/dp/B089NXGBJR/ref=sr_1_1?crid=KQVCZAWZK97H&amp;keywords=unleashed+frances+frei&amp;qid=1677384772&amp;sprefix=unleashed+frances+fre%2Caps%2C1214&amp;sr=8-1">Unleashed by Frances Frei and Anne Morris</a> is about how to lead by empowering people. Leadership is not about you, it’s about empowering other people around you both in your presence (thro trust, love and belonging) and in your absence (thro strategy and culture). My key takeaways from this book is the practical wisdom related to what I could do myself as an individual to empowerment others around me.</p>
-
-<h5 id="warning-signs-you-make-it-all-about-you">Warning signs you make it all about you</h5>
-
-<p>Before we can empower others, we have to understand leadership is not about us, it is about managing other people’s fear and expectations. Here are 10 ways we often make things all about us.</p>
-
-<ol>
-  <li>What other people experience rarely occurs to us - we’re not being curious enough</li>
-  <li>We don’t ask very many questions - don’t feel the impulse to feel how other people think or feel</li>
-  <li>The most interesting thing about other people is what they feel about us - you don’t have a genuine interest in other people</li>
-  <li>We’re constantly keeping a tab on your own weaknesses - your inner critical voice is too loud</li>
-  <li>Other people’s abilities bum us out - our primary response on seeing others excel is feeling worse about yourself</li>
-  <li>We’re constantly in crisis</li>
-  <li>We’re pessimistic about the future - despair is the opposite of leadership</li>
-  <li>Don’t feel a sense of wonder and reality has become too tedious</li>
-  <li>Apathy and powerlessness are our dominant emotions</li>
-  <li>We’re the star of your own show - a leaders mission is to ensure wild success for everyone in their team and not toot their horn</li>
-</ol>
-
-<p>This is not to say that as a leader we shouldn’t have aspirations or personal goals but that they all take a backseat to the mission of the team.</p>
-
-<h5 id="what-is-empowerment-leadership">What is empowerment leadership?</h5>
-
-<p>Empowerment leadership is ensuring that people feel empowered to the do the right thing both in your presence and in your absence. The book visualises this as two concentric circles. The inner circle of empowerment involves trust, love and belonging and the outer circle involves strategy and culture.A lot has been written on making strategic changes to promote diversity, psychological safety and establishing a culture of accountability. Colin Doyle’s book <a href="https://www.infermuse.com/lessons-from-culture-code/">The Culture Code</a> addresses some of these issues.  I am going to stick to the inner circle in this post.</p>
-
-<ol>
-  <li>Trust - There are three parts to establishing trust with people around you. First is authenticity, i.e. I talk to the real you, second are you logical and third do you empathise with me and have my best interests at heart (think <a href="https://www.infermuse.com/lessons-from-radical-candor-part-i/#guidance">Caring Personally</a> from Radical Candor). Empowerment “wobbles” when any people you’re trying to lead, suspect any one of these as breaking down (your logic of a decision, your lack of empathy, etc). It is important to know your “wobble” and then address it.</li>
-</ol>
-
-<p><img class="img-fluid" src="/wp-content/uploads/2023/02/standards-devotion-quadrants.jpg" alt="Standards devotion quadrants" srcset="    /assets/resized/standards-devotion-quadrants-320x164.jpg 320w,    /assets/resized/standards-devotion-quadrants-480x246.jpg 480w, /wp-content/uploads/2023/02/standards-devotion-quadrants.jpg 659w" /></p>
-
-<ol>
-  <li>
-    <p>Love - The 4 quadrants of how others experience us is shown below. On the x axis we have the devotion people feel from us towards their well being and on the y axis is the standards they feel we have set for them. Justice is the most empowering quadrant as it is the only quadrant where people feel both loved and held to high standards. People in this quadrant excel in our presence. Neglect is the worst as these are people whom we have written off and are not being challenged sufficiently. Severity is the second worst as people feel we are holding them to high standards but don’t care about them. Fidelity is when over protect people but don’t lead them to excellence by setting higher standards. The key point is we have the ability to be a leader who can both hold people to high standards and care for them deeply. Our goal as leaders should be to try and move as many people as possible from neglect, severity and fidelity to the justice quadrant.</p>
-  </li>
-  <li>
-    <p>Belonging - Building a place where bring their complete multidimensional selves to work is super hard. The scale of belonging starts from feeling safe to feeling welcome to feeling celebrated to finally the promised land of feeling cherished. There are some simple things that can be done to make a more inclusive organisation. Bring in clarity around promotions and make the criteria objective. This is especially helpful as marginalised groups often feel that there are artificial critieria that are used for majority folks. Anonymity can also often break trust. Instead of anonymous 360 degree feedback, bring it out of the shadows so there’s clear context around feedback.</p>
-  </li>
-</ol>
-
-<h5 id="10-ways-to-raise-the-bar">10 ways to raise the bar</h5>
-
-<p>The part I loved about this list is all this can be done in the next 24 hours by us in any organisation we work in.</p>
-
-<ol>
-  <li>Kick off a group project - Raise the collective standards and explain why the standards are what they are</li>
-  <li>Celebrate a win publicly with specific praise to people who made it happen</li>
-  <li>Treat someone like their better future self - Engage with the new and improved version even if they’re not there yet (may be even assign that stretch assignment you’re holding back)</li>
-  <li>Put your high performers to work - Goad them to coach others</li>
-  <li>Convene an after action review (AAR) - What could have been done better</li>
-  <li>Set better goals - SMART or OKR</li>
-  <li>Broadcast your ambitions - Find a peer or two or three to keep you honest</li>
-  <li>Eliminate an inefficiency - Reduce people’s pains (easy wins). Stay humble and curious about what’s draining your team’s time</li>
-  <li>Take bold action - Take immediate and meaningful action. Ideally do something you’ve never done before which surprises people who know you</li>
-  <li>Be the standard - Model the standards that you want others to adopt</li>
-</ol>
-
-<h5 id="10-ways-to-show-your-committment">10 ways to show your committment</h5>
-
-<p>Another list of 10 things we can do to show our commitment to empowering others. Again, as I’ve said before, the list is actionable and achievable in the next 24 hours.</p>
-
-<ol>
-  <li>Get rid of your phones (distractions) while in a conversation - Offer your undliuted attention to everyone you talk to</li>
-  <li>Get curious about the lives - A simple “tell me about yourself” can go a long way</li>
-  <li>Experience their reality - active enquiry into how they experience the world and day to day work</li>
-  <li>Ask how you can help - focus on how to make it more meaningful</li>
-  <li>Help proactively without expectations for return</li>
-  <li>Offer snacks - I know this sounds silly but acknowledging someone’s humanity like this can be a big deal</li>
-  <li>Give them a break - Sprints need time for recovery</li>
-  <li>Acknowledge their presence outside work - Minimise evening and weekend work</li>
-  <li>Sincere gratitude - Clear thank you notes</li>
-  <li>Less me and more you - Language matters</li>
-</ol>
-
-<hr />
-
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet</a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Business" /><summary type="html"><![CDATA[The book Unleashed by Frances Frei and Anne Morris is about how to lead by empowering people. Leadership is not about you, it’s about empowering other people around you both in your presence (thro trust, love and belonging) and in your absence (thro strategy and culture). My key takeaways from this book is the practical wisdom related to what I could do myself as an individual to empowerment others around me.]]></summary></entry></feed>
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet</a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Lifehacks" /><summary type="html"><![CDATA[In his book How to be perfect, Michael Shur, the writer behind shows like The office, Brooklyn Nine-Nine and The Good Place, introduces us to important moral philosophical concepts that help us distinguish right from wrong. Think of it as a 101 moral philosophy course by a really witty and humorous professor.]]></summary></entry></feed>
