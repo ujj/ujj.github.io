@@ -1,4 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-26T10:20:25+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">How physical craft enriches us</title><link href="http://localhost:4000/physical-craft-enriches/" rel="alternate" type="text/html" title="How physical craft enriches us" /><published>2023-11-26T09:17:27+05:30</published><updated>2023-11-26T09:17:27+05:30</updated><id>http://localhost:4000/how-physical-craft-enriches-us</id><content type="html" xml:base="http://localhost:4000/physical-craft-enriches/"><![CDATA[<p>This post is a collection of lessons from the book <a href="https://www.amazon.com/Shop-Class-Soulcraft-Inquiry-Value/dp/0143117467/ref=sr_1_1?keywords=shop+class+as+soulcraft&amp;qid=1700973675&amp;sr=8-1">Shop Class as Soulcraft</a>, by Matthew Crawford, on how physical craft enriches us. He defines Craftsmanship as being the desire to do things as well as you can for its own sake and goes on to explain how we have degraded craftsmanship in recent times. It is a fascinating read that underscores that the physical world is not just a distraction from the real world but is the real world. The book reviews the modern day understanding of work and how we, as a society, have come to value certain types of work over others. In this post I try to summarise the key ideas from the book.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-12T14:47:32+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">Different kinds of failures</title><link href="http://localhost:4000/different-kinds-of-failures/" rel="alternate" type="text/html" title="Different kinds of failures" /><published>2023-12-12T12:28:27+05:30</published><updated>2023-12-12T12:28:27+05:30</updated><id>http://localhost:4000/different-kinds-of-failures</id><content type="html" xml:base="http://localhost:4000/different-kinds-of-failures/"><![CDATA[<p>The popular Silicon Valley mantra <em>Fail Fast, Fail Often</em> is often misunderstood. The idea is not to repeatedly fail until one gets it right. In fact it alludes to a very specific kind of failure, one that is <em>fast</em> and <em>cheap</em> and reveals something new and interesting. This is the right kind of failure Silicon Valley is obsessed with. In her book <a href="https://www.amazon.com/Right-Kind-Wrong-Science-Failing/dp/1982195061/ref=sr_1_1?crid=3DTAOI07DCH1B&amp;keywords=right+kind+of+wrong&amp;qid=1702372354&amp;sprefix=right+kind+of+%2Caps%2C607&amp;sr=8-1">The Right Kind of Wrong</a>, Amy Edmondson, a professor at Harvard Business School, talks about the differences between good failures and bad failures. This is the part one of a two part series on lessons from this book. This post is about the different kinds of failures and why one is better than the other. In the next post, I will talk about how to create a culture of psychological safety that encourages good failures.</p>
+
+<h3 id="basic-failures">Basic failures</h3>
+
+<p>Basic failures are common everyday errors that happen due to oversight, neglect, inattention, forgetfulness, faulty assumptions based on poor logic or scant evidence and distraction that comes with modern life. Basic failures are unproductive, a drain on energy and resources and are the farthest away from the kind of failure we all want to encourage.</p>
+
+<p>At this juncture it is perhaps important to look at failures in a spectrum. The infograhic below talks about a spectrum of failures. The left side of the spectrum is where basic failures lie and the right side is where intelligent failures lie. The failures on the left side are blameworthy while those on the right side are praiseworthy. Worth mentioning that almost all the failures we encounter in our work or personal life lie somewhere in the middle of the spectrum.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2023/12/failure_spectrum.jpg" alt="A spectrum of failures" srcset="    /assets/resized/failure_spectrum-320x96.jpg 320w,    /assets/resized/failure_spectrum-480x144.jpg 480w,    /assets/resized/failure_spectrum-800x240.jpg 800w, /wp-content/uploads/2023/12/failure_spectrum.jpg 2000w" /></p>
+
+<p>Avoiding these kinds of failures is relatively easy and requires processes and systems. Some ways one can avoid basic failures are stated below.</p>
+
+<ul>
+  <li>
+    <p>Utilizing Checklists and Standardization: Seasoned professionals, such as pilots, adhere to meticulous checklists and standardized procedures prior to every flight, ensuring the aircraft’s optimal functionality. In Atul Gawande’s <a href="https://www.amazon.com/Checklist-Manifesto-How-Things-Right-ebook/dp/B0030V0PEW/ref=sr_1_1?crid=3N2TYV0P77ZZ4&amp;keywords=checklist+manifesto&amp;qid=1702372463&amp;s=digital-text&amp;sprefix=checklist+mani%2Cdigital-text%2C290&amp;sr=1-1">Checklist Manifesto</a>, the transformative impact of checklists in the medical field is emphasized, leading to enhanced performance, decreased errors, and lives saved. However, it’s crucial to acknowledge that checklists have their limits.</p>
+  </li>
+  <li>
+    <p>Cultivating a Safety-Centric Culture: Elevating the pursuit of excellence into a habit entails an unwavering commitment to meticulous attention to detail. By bringing safety front and center, one ensures that all possible precautions are taken to avoid basic failures that could lead to accidents or injuries.</p>
+  </li>
+  <li>
+    <p>Fostering a Culture of Blameless Reporting: Encouraging employees to openly communicate adverse events and issues without fear of repercussions is paramount. Establishing your version of the “Andon Cord,” akin to Toyota’s approach, reinforces transparency as non-punitive and incentivizes the free exchange of information regarding errors and their solutions.</p>
+  </li>
+  <li>
+    <p>Proactive Maintenance: Overcoming the challenge of “Temporal Discounting,” which leads us to prioritize immediate concerns over future potential problems, is essential. Regular, routine maintenance exerts a disproportionately significant impact on the mitigation of fundamental failures.</p>
+  </li>
+  <li>
+    <p>Mandatory Training Programs: Ensuring that all personnel possess a comprehensive understanding of equipment, coding, or any relevant subject matter is indispensable. Continuously updating training modules based on past errors ensures a state-of-the-art skill set.</p>
+  </li>
+  <li>
+    <p>Implementing Poka-Yoke Principles: The concept of “poka-yoke,” or error-proofing, involves designing systems to prevent, rectify, or highlight errors as they occur. It’s akin to childproofing your furniture or medicine bottles, effectively eliminating unexpected surprises or blunders.</p>
+  </li>
+</ul>
+
+<p>The reason basic failures are helpful is that they are a good way to practice learning from past mistakes and getting used to the emotional discomfort one feels about failures.</p>
+
+<h3 id="complex-failures">Complex failures</h3>
+
+<p>Cumulative small issues can culminate in complex failures, similar to basic failures, and typically occur in familiar environments. Complex failures are influenced by various internal and external factors, such as increasing distractions and the overconfidence that repetition can bring. Interconnectedness, exemplified during the COVID-19 pandemic, also plays a significant role.</p>
+
+<p>Interactive complexity emerges when multiple systems collaborate, making it challenging to predict the consequences of a minor error or change in one system. Perrow extensively explores this concept in “Normal Accidents.” In today’s world, disasters are more likely to occur when systems are tightly interconnected and their interactions are intricate. The diagram below shows how interactive complexity and tight coupling can lead to complex failures.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2023/12/new_perrow.jpg" alt="Perrow described this interconnectedness failure in his book Normal Accidents" srcset="    /assets/resized/new_perrow-320x287.jpg 320w,    /assets/resized/new_perrow-480x430.jpg 480w,    /assets/resized/new_perrow-800x717.jpg 800w, /wp-content/uploads/2023/12/new_perrow.jpg 908w" /></p>
+
+<p>A way to understand complex failures is the swiss cheese model. Just as in a swiss cheese there are holes which often line up to create a hole that goes through the entire cheese, similarly in complex failures, multiple small failures line up to create a big failure. Visualising a complex system like a piece of swiss cheese reminds us of the role of chance. Error will always be with us but we can design systems that notice them and stop them.</p>
+
+<p>Much like basic failures, mitigating complex failures necessitates a proactive approach and learning from past mistakes. However, the complexity of the systems involves not downplaying the role of chance and luck.</p>
+
+<h3 id="intelligent-failures">Intelligent failures</h3>
+
+<p>An intelligent failure is the kind that all want to encourage as it sheds light on new and interesting things. Intelligent failures or smart failures happen in a setting where there’s a lot of analytical or scientific work involved. In a typical lab, the failure rates could be as high as 70% and only these kinds of failures should be celebrated. Intelligent failure occurs as a part of what you believe to be a meaningful opportunity towards a valued goal and getting the right answer is not the only valued goal.</p>
+
+<p>How to tell if a failure is intelligent? Here are 5 quick questions that can help you arrive at the answer.</p>
+
+<ul>
+  <li>New territory - do people already know how to get this done some other way?</li>
+  <li>Opportunity driven - is there an opportunity worth pursuing and the goal valuable?</li>
+  <li>Informed by prior knowledge - has the required homework been done and a thoughtful hypothesis formulated?</li>
+  <li>As cheap as possible - has the risk been mitigated through a well designed experiment?</li>
+  <li>Bonus - have all the lessons been mined from the failure and the knowledge shared?</li>
+</ul>
+
+<p>One of the key tenets of smart failures is it happens when the team posseses a growth mindset. A growth mindset, defined by Carol Dweck, is the belief that one’s abilities can be developed through dedication and hard work. A fixed mindset, on the other hand, is the belief that one’s abilities are innate and cannot be changed. A growth mindset is characterised by the curiosity to learn what went wrong and a willingness to go through the pain of looking back in the failure to learn. A fixed mindset is characterised by the fear of looking back and the pain of admitting that one was wrong.</p>
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Business" /><category term="Lifehacks" /><category term="" /><category term="" /><summary type="html"><![CDATA[The popular Silicon Valley mantra Fail Fast, Fail Often is often misunderstood. The idea is not to repeatedly fail until one gets it right. In fact it alludes to a very specific kind of failure, one that is fast and cheap and reveals something new and interesting. This is the right kind of failure Silicon Valley is obsessed with. In her book The Right Kind of Wrong, Amy Edmondson, a professor at Harvard Business School, talks about the differences between good failures and bad failures. This is the part one of a two part series on lessons from this book. This post is about the different kinds of failures and why one is better than the other. In the next post, I will talk about how to create a culture of psychological safety that encourages good failures.]]></summary></entry><entry><title type="html">How physical craft enriches us</title><link href="http://localhost:4000/physical-craft-enriches/" rel="alternate" type="text/html" title="How physical craft enriches us" /><published>2023-11-26T09:17:27+05:30</published><updated>2023-11-26T09:17:27+05:30</updated><id>http://localhost:4000/how-physical-craft-enriches-us</id><content type="html" xml:base="http://localhost:4000/physical-craft-enriches/"><![CDATA[<p>This post is a collection of lessons from the book <a href="https://www.amazon.com/Shop-Class-Soulcraft-Inquiry-Value/dp/0143117467/ref=sr_1_1?keywords=shop+class+as+soulcraft&amp;qid=1700973675&amp;sr=8-1">Shop Class as Soulcraft</a>, by Matthew Crawford, on how physical craft enriches us. He defines Craftsmanship as being the desire to do things as well as you can for its own sake and goes on to explain how we have degraded craftsmanship in recent times. It is a fascinating read that underscores that the physical world is not just a distraction from the real world but is the real world. The book reviews the modern day understanding of work and how we, as a society, have come to value certain types of work over others. In this post I try to summarise the key ideas from the book.</p>
 
 <h3 id="useful-arts">Useful arts</h3>
 
@@ -417,107 +481,4 @@ Suppression of choice can also lead to a more meaningful interaction with the en
 
 <hr />
 
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Lifehack" /><summary type="html"><![CDATA[In his book, Play Anything, Ian Bogost aims to explain how fun and play are not the same thing. He claims that “fun” is not pleasure but rather the aftereffect of play. This book challenges almost all notions of play, fun, pleasure, boredom and happiness. In this post I try to summarise the key ideas from the book.]]></summary></entry><entry><title type="html">Practical lessons from The Mom Test</title><link href="http://localhost:4000/practical-insights-from-the-mom-test/" rel="alternate" type="text/html" title="Practical lessons from The Mom Test" /><published>2023-05-14T00:00:02+05:30</published><updated>2023-05-14T00:00:02+05:30</updated><id>http://localhost:4000/practical-insights-the-mom-test</id><content type="html" xml:base="http://localhost:4000/practical-insights-from-the-mom-test/"><![CDATA[<p>The Mom Test is a short book on how to ask questions about your product. It is a must read for anyone who is building a product or a startup. The book is full of practical advice and is a great reference book to keep coming back to. I have tried to summarize the key points below. The key takeaway for me was the attitude shift that is needed to ask questions. We must seek understanding our users and their life and not validation of our ideas. All the advise in the book stands on this key mental shift.</p>
-
-<h5 id="switching-from-pitching-to-learning">Switching from pitching to learning</h5>
-
-<p>When we go in pitch mode, we sound desperate and people can smell it. Since most people are uncomfortable in offering bad news or criticism, they will often say things like “that’s a great idea” or “I would totally use it” or “I know someone who would love this”. These are all lies and they are not born out of malice but by our poor questions and behaviors. The zeroth law of user research is to be in the learning frame of mind.</p>
-
-<p>According to Fitzpatrick, a good conversation process has the following steps</p>
-
-<ol>
-  <li>Slice your customer base into as thin segments as possible - so you can answer who they are and where you can find them</li>
-  <li>Write down your goals - what can be good possible next steps</li>
-  <li>Vision-Framing-Weakness-Pedestal-Ask - this is a framing tactic. You must frame the conversation to discuss your vision about a particular problem and explain what stage you’re in. Show them your weaknesses or vulnerability about your solution and put them on a pedestal and say why you think their opinion matters. Finally, ask for help.</li>
-  <li>Set up commital next steps - discussed in the last section</li>
-  <li>Ask good questions - described in the next section</li>
-  <li>Go through notes with team - all your learnings from the customers are relevant only if they are transmitted throughout your team</li>
-</ol>
-
-<h5 id="there-are-good-questions-and-bad-questions">There are good questions and bad questions</h5>
-
-<p>While most of us can do with more user disussions than we already do, there are indeed some questions that we can avoid asking.</p>
-
-<p>These are some bad questions.</p>
-
-<ol>
-  <li>Do you think its a good idea? - this is loaded and makes you want to hear self indulgent noise which you can do without.</li>
-  <li>Would you ever buy something that lets you do X? - forces them to wax lyrical about a hypothetical future.</li>
-  <li>How much you pay for X/would you pay X for Y? - this has some benefits but it should never be framed this way.</li>
-</ol>
-
-<p>These questions below are absolutely worth trying out.</p>
-
-<ol>
-  <li>How do you do X or can you show me? Another version would be “talk me through the last time x happened”.</li>
-  <li>How much does it cost you? or how much does that matter (implications) - this is a better way to understand their willingness to pay.</li>
-  <li>Why do you care about this problem or why does it even matter? Helps understand actual customer goals and not their idea of what it solves.</li>
-  <li>What else have you tried?</li>
-  <li>Who else should I talk to?</li>
-  <li>Did I miss anything or should I have asked you to anything specific?</li>
-</ol>
-
-<p>Some things to keep in mind while coming up questions</p>
-
-<ol>
-  <li>Ask questions that can potentially break or make the business. Don’t be afraid of scary questions or shrinking from legal issues.</li>
-  <li>Welcome bad news. In fact seek out information that can kill your idea. The sooner you get to that, the faster you will be able to fix it or move on to the next idea.</li>
-  <li>Spot the lukewarm response and dig deeper. Don’t let people get away with vague answers. Ask them to be specific and give examples.</li>
-  <li>Don’t zoom in too quickly. Don’t get too feature oriented or get into stack ranking needs before you’ve mapped the overall landscape through the customer lens.</li>
-</ol>
-
-<p>The bottom line is to keep them talking and helping you understand them well enough to build something they will love.</p>
-
-<h5 id="spotting-bad-data">Spotting bad data</h5>
-
-<p>Conversations, especially the ones that are not run with care, can lead to bad data that makes us wrongly confident. This is how bad data comes to us.</p>
-
-<ul>
-  <li>Complements - if any complements come your way deflect and come back on track. get suspicious as soon as you hear a complement.</li>
-  <li>Fluff - generic ramblings. Ignore and get to specifics.</li>
-  <li>“I always or generally do X” - ask them what/how they did last X.</li>
-  <li>“I would definitely buy that in the future” - don’t ask would you ever instead ask “do you see yourself doing..”</li>
-  <li>Hypothetical maybes - people generally describe who they want to be and not who they are. They also complain unnecessarily. Asking for specifics on how they deal with X, can reveal if they are indeed being honest. Be wary of “someone should definitely build X” cause more often than not, X’s exist and people don’t necessarily care about it enough to find it.</li>
-  <li>Their ideas - handle feature requests by understanding the true motivation behind it. It can either be a generic request of the type “this seems like a killer feature” but with no way to back it up with why its so important or crucial. Or it can be based on them having employed a workaround and knowing what it costs them in time/money. The latter is a good signal to build something.</li>
-</ul>
-
-<h5 id="stop-fishing-for-compliments-fish-for-committments">Stop fishing for compliments, fish for committments</h5>
-
-<p>The best way to get people to commit to something is to ask them to do something small and low risk. This is called the foot in the door technique. Once they have committed to something small, they are more likely to commit to something bigger. This is called the consistency bias. This was a key insight in the book <a href="https://www.infermuse.com/handling-objections">Objections</a> as well.</p>
-
-<p>A good customer meeting or a fruitful conversation ends in clear next steps. The best meetings end in committments which can include</p>
-
-<ol>
-  <li>Pre-orders, paid pilot, deposits, etc.</li>
-  <li>Introductions to other people - peers, friends, bosses.</li>
-  <li>A public testimonal - they are ready to put their name on it</li>
-  <li>A pilot</li>
-</ol>
-
-<p>Poor conversations or meetings end in a vague committment and compliment. “This is great, keep me posted” or “drop me a note when you launch”. If you receive any of these, ask them what else would they like to see for you to move to next steps.</p>
-
-<h5 id="how-to-get-conversations-going">How to get conversations going</h5>
-
-<p>There are several ways to get busy with customer conversations.</p>
-
-<ol>
-  <li>Organise events - become the centre of attention (“Office Mangers Happy Hour”)</li>
-  <li>Teaching - free one on one consulting/webinars</li>
-  <li>Blogging - write about your industry and get people to comment</li>
-  <li>I am writing a book/PhD dissertation - people will always talk to you (related to the pedestal point)</li>
-  <li>Advisory Board - get people to join your advisory board (everyone wants to help someone else, few know how to do it)</li>
-</ol>
-
-<p>You can even cold email people to help but cold emails are tricky. You can use the same <em>Vision-Framing-Weakness-Pedestal-Ask</em> framework.</p>
-
-<ol>
-  <li>Establish you’re an entrepreneur - state your high level vision (not the specific idea)</li>
-  <li>Frame the expectations - tell them you’re not going to sell</li>
-  <li>Show weakness - how you’re looking to get some questions answered</li>
-  <li>Put them on a pedestal - why you think their experience matters to you</li>
-  <li>Ask them for help - ask the “good questions” like the ones discussed above.</li>
-</ol>
-
-<hr />
-
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Business" /><summary type="html"><![CDATA[The Mom Test is a short book on how to ask questions about your product. It is a must read for anyone who is building a product or a startup. The book is full of practical advice and is a great reference book to keep coming back to. I have tried to summarize the key points below. The key takeaway for me was the attitude shift that is needed to ask questions. We must seek understanding our users and their life and not validation of our ideas. All the advise in the book stands on this key mental shift.]]></summary></entry></feed>
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Book Reviews" /><category term="Lifehack" /><summary type="html"><![CDATA[In his book, Play Anything, Ian Bogost aims to explain how fun and play are not the same thing. He claims that “fun” is not pleasure but rather the aftereffect of play. This book challenges almost all notions of play, fun, pleasure, boredom and happiness. In this post I try to summarise the key ideas from the book.]]></summary></entry></feed>
