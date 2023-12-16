@@ -361,6 +361,10 @@
 <lastmod>2023-12-12T12:28:27+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/how-to-fail-well/</loc>
+<lastmod>2023-12-16T09:28:27+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/posts/</loc>
 </url>
 <url>
@@ -419,6 +423,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/posts/page9/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/posts/page10/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/wp-content/uploads/ao_ccss/</loc>
