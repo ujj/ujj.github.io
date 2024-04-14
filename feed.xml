@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-30T10:01:06+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">The Unchanging Principles of a Good Life</title><link href="http://localhost:4000/unchanging-principles-good-life/" rel="alternate" type="text/html" title="The Unchanging Principles of a Good Life" /><published>2024-03-30T09:07:57+05:30</published><updated>2024-03-30T09:07:57+05:30</updated><id>http://localhost:4000/unchanging-principles-good-life</id><content type="html" xml:base="http://localhost:4000/unchanging-principles-good-life/"><![CDATA[<p>In this crazy-fast world where new tech gadgets become old news in a matter of months and trends change faster than the weather, it’s easy to get caught up in all the change. But Morgan Housel’s book “Same as Ever” throws us a bit of a curveball. It says, “Hey, while everyone’s busy looking at what’s changing, let’s not forget about the stuff that doesn’t change.” And it turns out, that unchanging stuff? It’s pretty crucial.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-14T12:43:27+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">Lessons from Slow Productivity</title><link href="http://localhost:4000/lessons-from-slow-productivity/" rel="alternate" type="text/html" title="Lessons from Slow Productivity" /><published>2024-04-14T03:20:55+05:30</published><updated>2024-04-14T03:20:55+05:30</updated><id>http://localhost:4000/lessons-from-slow-productivity</id><content type="html" xml:base="http://localhost:4000/lessons-from-slow-productivity/"><![CDATA[<p>Carl Newport, in his book Slow Productivity, elucidates a new way to think about knowledge work and accomplishment without burnout. He argues that much of what we do in the name of productivity, with respect to knowledge work, is actually pseudo productivity. In this post, I first describe pseudo productivity and then talk about what he describes as <em>Slow Productivity</em>, which can be thought of as a new way to organise knowledge work efforts to ensure a more sustainable and meaningful manner.</p>
+
+<h3 id="pseudo-productivity">Pseudo Productivity</h3>
+
+<p>Pseudo productivity is what we do in the name of productivity but doesn’t actually lead to meaningful work. The reason people fall into the trap of pseudo productivity is because knowledge work is hard to define. Some reasons why productivity in knowledge work context are hard to define are as follows.</p>
+
+<ul>
+  <li>Other commitments come up quite frequently. Knowledge work is fluid and requirements and constraints change quite frequently.</li>
+  <li>Lots of personal decision making is involved in the completion of an assignment. Personal judgements around assigning, collaborating and executing make it hard to apply resource management techniques across projects and people.</li>
+  <li>Knowledge workers seek autonomy which makes supervision mostly a matter of guidance and not control.</li>
+</ul>
+
+<p>All this makes it hard to measure productivity. This is why visible activities like showing up in meetings, staying up late in office, staying online on Slack or general busy-ness become proxies for productivity. These pseudo productivity metrics are also what organisations and managers often, directly or indirectly, use for rewarding people.</p>
+
+<h3 id="slow-productivity">Slow Productivity</h3>
+
+<p>Slow productivity is a new way to organise knowledge work efforts to ensure a more sustainable and meaningful manner. It incorporates 3 main parts and aims to eliminate pseudo productivity.</p>
+
+<h4 id="doing-fewer-things">Doing fewer things</h4>
+
+<p>Doing fewer things provides us with a meaningful space to do that which we want. It does not mean achieving less but engineering a kind of simplicity to reduce your workload creatively. Most knowledge work requires some amount of administrative overhead - email, meetings, etc. These take away time for your core work slowing down the rate of your real productivity. Doing fewer things not only saves you time but also improves the quality of the time spent on actual core work.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2024/04/dilbert-think-useful.jpeg" alt="Dilber taking the time to think something useful" srcset="    /assets/resized/dilbert-think-useful-320x240.jpeg 320w, /wp-content/uploads/2024/04/dilbert-think-useful.jpeg 400w" /></p>
+
+<p>Here’s a few ways you can go about this.</p>
+
+<ul>
+  <li>Restrict to working on one major project per day - the key to doing more is to separate the overhead from the actual work and if you do just one thing, you reduce the overheads.</li>
+  <li>Autopilot scheduling - doing regular day to day stuff at specific schedules allows repetition of doing same tasks on same days at same times and reduces the cognitive load of administrating their overheads. You can also couple this schedule at the same location with a small ritual as rituals are powerful ways to get you <em>in the zone</em>.</li>
+  <li>Avoid Task Engines - these are tasks that generate lots of small adhoc tasks that cannot be scheduled or planned. Instead schedule deep work that you can accomplish on your own without interruptions or collaborations.</li>
+  <li>Get an Assistant - Pay money to handle your day to day administrative tasks by hiring an assistant to take over the overhead tasks and focus on your goals.</li>
+</ul>
+
+<h4 id="work-at-a-natural-pace">Work at a natural pace</h4>
+
+<p>Good things take time and its prudent to evaluate contributions over decades or lifetimes rather than a couple of weeks. There are psychological costs to slowing down. Its tempting to think of yourself as procrastinating and then as penance, drown yourself in work for weeks on end. Slowing down requires self forgiveness. Your ideal goal is to set up “days of quiet wonder”. Here’s a few ways to get you started.</p>
+
+<p>Make a 5 year plan - planning at the small scale is necessary but also craft a 5 year plan. This long term plan can help you return to the things you deem important. It helps you tolerate extended interludes between your initiatives and frantic day to day work that can keep you very busy.</p>
+
+<ul>
+  <li>
+    <p>Make the next few months plan - complete projects or milestones from existing projects. not too ambitious and not too slack. strike the right balance to give yourself more than the needed time to achieve your goals.</p>
+  </li>
+  <li>
+    <p>Simplify your workday - one of the central joys of slowing down is that it frees you from needing to attack everything with frantic intensity. if you keep filling your every working day with work, then the previous two timelines don’t work. Cut your tasks list or estimates by 25-a 50% are a good way to ensure you don’t become too busy. Make it harder for people to do adhoc meetings or declare some hours to be always off limits.</p>
+  </li>
+  <li>
+    <p>Benefits of Seasonality - Taking time off regularly to recharge and gain some distance can help in becoming more productive over years. You can schedule “slow seasons” in which you knowingly don’t shoot for greatness for certain projects or time frames. You can also pair each major project with a rest project that rejuvenates you. this can be a leisure project at home or simply a less critical and more fun work project too. the key is to strike a proportional balance and set up a back and forth rhythm.</p>
+  </li>
+</ul>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2024/04/neil_gaiman_work_shed.png" alt="Neil Gaiman's writing shed" srcset="    /assets/resized/neil_gaiman_work_shed-320x214.png 320w,    /assets/resized/neil_gaiman_work_shed-480x321.png 480w, /wp-content/uploads/2024/04/neil_gaiman_work_shed.png 708w" />
+Neil Gaiman’s writing shed</p>
+
+<ul>
+  <li>Getting outside the familiar settings - Working outside the familiar in eccentric writing places, as famous writers and creative artists have done for decades is a way to get out of the familiar. The familiar snares our attention destabilising the neural dance required to think clearly. Just looking at a laundry basket, can shift our mind from creative work mode to household chores context. Associative nature of our brain makes a mere sight of a laundry basket, prop up stress inducing neural load related to household tasks, <a href="https://www.bollettinoadapt.it/wp-content/uploads/2021/05/What-if-Remote-Work-Didn%E2%80%99t-Mean-Working-from-Home_-_-The-New-Yorker.pdf">says neuroscientist Daniel Levitan</a>. Disconnection from the familiar is important and can happen in a cheap hotel lobby near your home or a fancy office 10 miles away.</li>
+</ul>
+
+<h4 id="focus-on-quality">Focus on quality</h4>
+
+<p>Hardwood takes time to grow. The <a href="https://en.wikipedia.org/wiki/Jewel_(singer)">folk singer Jewel’s life</a> is a great example of how she prioritised her art over fame and rapid monetary growth. She rejected 1m signing bonus from record labels while being homeless, to ensure she remained cheap for the labels so they would have more patience and time as she explored different styles and found out what resonated best with the public.</p>
+
+<p>When you concentrate your energy on producing your best possible result, a humane slowness becomes inevitable. Once you commit to doing something well, “busyness” becomes an impediment.</p>
+
+<p><a href="https://www.thestorydepartment.com/video-ira-glass-taste-talent/">According to Ira Glass</a>, in a creative career, there’s often a gap between taste and ability. Taste acts as the compass that guides you away from the valleys of mediocrity. It’s easier to recognise brilliance than producing it. Our taste is what propels us to the best work we are producing at the moment. The effort to diminish the difference between our taste and ability is where creative things happen. The first step to producing quality is to learn to appreciate good things.</p>
+
+<p>Having your own peer network that helps you fine tune your own craft is a must. A group of similar practitioners will collectively have a higher bar for quality than you alone can. When you are performing for a group of people, your mind switches to a higher gear.</p>
+
+<p>Investing in your tools also puts you in a mindset of producing quality work. For ex if you’re into podcasting, the difference between a 300$ mic and the built in mic of your laptop, could just push you in producing better content.</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Business" /><category term="Human Psychology" /><category term="Lifehacks" /><summary type="html"><![CDATA[A new way to think about knowledge work without burnout]]></summary></entry><entry><title type="html">The Unchanging Principles of a Good Life</title><link href="http://localhost:4000/unchanging-principles-good-life/" rel="alternate" type="text/html" title="The Unchanging Principles of a Good Life" /><published>2024-03-30T09:07:57+05:30</published><updated>2024-03-30T09:07:57+05:30</updated><id>http://localhost:4000/unchanging-principles-good-life</id><content type="html" xml:base="http://localhost:4000/unchanging-principles-good-life/"><![CDATA[<p>In this crazy-fast world where new tech gadgets become old news in a matter of months and trends change faster than the weather, it’s easy to get caught up in all the change. But Morgan Housel’s book “Same as Ever” throws us a bit of a curveball. It says, “Hey, while everyone’s busy looking at what’s changing, let’s not forget about the stuff that doesn’t change.” And it turns out, that unchanging stuff? It’s pretty crucial.</p>
 
 <h2 id="risk-the-sneaky-side-of-life">Risk: The Sneaky Side of Life</h2>
 
@@ -449,54 +521,4 @@
 <p>While some of these rules may seem Machiavellian, adapting them to your personality and setting requires thoughtful consideration. Stay tuned for a future post where I’ll summarize the remaining 24 laws.</p>
 <hr />
 
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Human Psychology" /><category term="Lifehacks" /><summary type="html"><![CDATA[I recently delved into Robert Greene’s influential book, 48 Laws of Power. While the overarching theme might not have immediately resonated with me, the intricate laws it presents have undeniably played a role in shaping power dynamics around me, knowingly or unknowingly. The book, a compilation of historical anecdotes, sheds light on how individuals have employed these laws to secure power. Below, I’ve distilled the first 24 laws into brief sentences. Throughout, I’ve used the term “enemy” interchangeably with counterparts, competitors, or opponents.]]></summary></entry><entry><title type="html">Designing incentives that work</title><link href="http://localhost:4000/designing-incentives-that-work/" rel="alternate" type="text/html" title="Designing incentives that work" /><published>2023-10-05T09:28:27+05:30</published><updated>2023-10-05T09:28:27+05:30</updated><id>http://localhost:4000/designing-incentives-that-work</id><content type="html" xml:base="http://localhost:4000/designing-incentives-that-work/"><![CDATA[<p>As an entrpreneur, product and people manager, I often find myself needing to design incentives that affect people’s behaviors. If you read the last sentence and the image formed in your head was that of a dangling carrot on a stick, i’ll request you to ignore it. I am talking about creating an environment where some really smart people become open to changing their behaviour ever so slightly to achieve larger goals. I wouldn’t blame you for the image that formed in your head though, as incentives are often poorly designed and are counter productive. In his book <a href="https://www.amazon.com/Mixed-Signals-Incentives-Really-Work/dp/B0BT5SW1RT/ref=sr_1_4?crid=2ZKM6B767T896&amp;keywords=mixed+signals&amp;qid=1696566311&amp;sprefix=mi%2Caps%2C1005&amp;sr=8-4">Mixed Signals</a>, Uri Gneezy, describes in detail how incentives can be used to achieve desired outcomes or mixed signaling be avoided that leads to incentives that aim to improve one thing but focus on another. I have tried to summarise the key learnings from the book below.</p>
-
-<p><img class="img-fluid" src="/wp-content/uploads/2023/10/horsecarrot.png" alt="Horse carrot stick by Dall-E" srcset="    /assets/resized/horsecarrot-320x320.png 320w,    /assets/resized/horsecarrot-480x480.png 480w,    /assets/resized/horsecarrot-800x800.png 800w, /wp-content/uploads/2023/10/horsecarrot.png 1024w" /> 
-<em>Not the image you should have when you think of incentives</em></p>
-
-<h3 id="what-is-signaling">What is signaling?</h3>
-
-<p>Signaling in this context refers to the social cues that we send out to others. Signals are a credible way to indicate your values, abilities, aspirations and preferences. We all indulge in one or the other type of signaling but if the signal is easy to adapt it can be copied and if it is too loud it can come across as inauthentic. A rich person may not want people to know that they want them to know they are rich. Thus enter, Rolexes. The real Biker culture has strong signals like conspicuous tattoos on the neck and arms. This is to identify real bikers and eliminate casual bikers who can also buy bikes &amp; riding gear which are, in comparison, cheap signals.</p>
-
-<p>Through policies we can force a person to send a very strong signal or a weak signal for specific things. Disney World, for example, allows free tickets for kids under 3. People often lie about their kids’ age but if DW began asking children their age directly, two things can happen</p>
-
-<ol>
-  <li>Kids will tell their true age and DW will eliminate the problem</li>
-  <li>Parents will instruct their kids in advance on lying about their age which will sort of persist the problem to some extent.</li>
-</ol>
-
-<p>Notice what is really happening with the second point. Parents are being asked to teach lying to their kids which is a strong signal to the parents that the price of the ticket is worth teaching kids to lie. This is a very strong signal and most parents won’t do it. This is a very crude example but it illustrates the point of how one can design policies and incentives that use the signaling mechanism to achieve desired outcomes.</p>
-
-<h3 id="avoiding-mixed-signaling">Avoiding mixed signaling</h3>
-
-<p>Another important aspect of using signals is avoiding sending mixed signals. It is usually borne out of encouraging something but incentivising another. For instance, encouraging quality of deliverables but giving bonuses for quantity or encouraging long term goal alignment but praising short term milestones.</p>
-
-<p>This is usually sorted out by adding more dimensions to the incentive structures. For instance, adding a rating system for the end user satisfaction along with evaluating people on quantity. This will ensure that people don’t just focus on quantity but also on quality.</p>
-
-<h3 id="self-v-social-signals">Self v Social Signals</h3>
-
-<p>Most signals are social in that they allow one to communicate their values to others. Driving fuel guzzling semis or choosing to go with hybrid cars is a social signal that you care about the environment. In the early days of hybrid cars, they were seen as pricier options with limited comfort and safety features. However, one shining factor set them apart – their eco-friendly nature. Consumers began embracing hybrid vehicles not just for their fuel economy but to send a powerful message to the world: “We care for the environment, and we’re willing to sacrifice some comforts for it.”</p>
-
-<p><img class="img-fluid" src="/wp-content/uploads/2023/10/prius.jpeg" alt="Cool prius as a social signal" srcset="    /assets/resized/prius-320x285.jpeg 320w,    /assets/resized/prius-480x428.jpeg 480w, /wp-content/uploads/2023/10/prius.jpeg 800w" /></p>
-
-<p>Enter the Toyota Prius and the Honda Civic, both based on existing models. However, the Prius had a distinct and conspicuous look that drew consumers who wanted to stand out and signal their commitment to environmental causes. As a result, Prius won big. The importance of signaling was underscored by a 2007 survey, revealing that a remarkable 57% of Prius owners chose it to make a statement about themselves, far outweighing those who mentioned fuel economy or reduced emissions.</p>
-
-<p>Self signals are signals that you send to yourself. Self signaling allow people to tell themselves that they are a good person or have certain values. Pay what you want coffee shops that are popping up in the US are a good example of self signaling. People readily pay more than the cost of the coffee because they want to feel good about themselves. The same people will not pay more than the cost of the coffee if they were asked to pay a specific amount. This is called the <em>warm glow effect</em>, what we feel when we help, volunteer or donate. The self signaling mechanism is very powerful and can be used to achieve desired outcomes.</p>
-
-<h3 id="mental-accounting">Mental Accounting</h3>
-
-<p>We all have different mental accounts for various expenses. Think about it; we might spend 20 minutes searching for parking deals to save a few bucks but don’t hesitate to splurge on dessert afterward. The money across these accounts is not interchangeable and the story we tell ourselves to justify our choices are entirely different. While saving on parking is a sound financial choice, ending a family meal with a lovely dessert is a way to elevate a moment and make it memorable. To make incentives truly appealing, we must use the right currency that shapes the narrative we want.</p>
-
-<p>Consider the story of a car review site that offered a $450 discount on car purchases. Surprisingly, this incentive didn’t have the positive impact they expected. Why? The $450 discount on a high-value purchase like a car got lost in the documentation and seemed insignificant. However, when they began offering the same $450 discount as “prepaid gas cards” for the same amount, demand improved significantly. Why? $450 is $450. Or is it?</p>
-
-<p>When it comes to incentives, they can often sit in different mental accounts. In the gas card scenario, buyers know they will need gas and the $450 incentive seems to come across as something extra. Moreover, every time buyers filled up their gas tanks using the free card, they felt smart for making a clever buying decision. This simple shift in the perception of value made all the difference.</p>
-
-<h3 id="regret-minimisation">Regret Minimisation</h3>
-
-<p>Regret is caused by comparing what we did v what we could have done. Regret can also be caused by not exploring a new option. In that sense, exploration is it’s own reward. This is related to the <a href="https://www.infermuse.com/lessons-from-thinking-fast-slow-part-2/">loss aversion</a> concept from Thinking Fast &amp; Slow. We love to avoid regret at all costs. This makes regret a great tool for incentives and driving behaviours.</p>
-
-<p>A classic example of this is the case where someone keeps buying a lottery ticket with the exact same numbers cause he thinks if he stopped buying and those numbers came up as winner, he would regret it immensely 🤷. A similar interesting case was of a lottery company that picked a random postcode from where a final winner will be chosen. This forced people in that postcode to think of a scenario in which someone from their address won the lottery but they didn’t. To avoid that regret, people flocked to buy lottery tickets.</p>
-
-<hr />
-
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Human Psychology" /><category term="Lifehacks" /><summary type="html"><![CDATA[As an entrpreneur, product and people manager, I often find myself needing to design incentives that affect people’s behaviors. If you read the last sentence and the image formed in your head was that of a dangling carrot on a stick, i’ll request you to ignore it. I am talking about creating an environment where some really smart people become open to changing their behaviour ever so slightly to achieve larger goals. I wouldn’t blame you for the image that formed in your head though, as incentives are often poorly designed and are counter productive. In his book Mixed Signals, Uri Gneezy, describes in detail how incentives can be used to achieve desired outcomes or mixed signaling be avoided that leads to incentives that aim to improve one thing but focus on another. I have tried to summarise the key learnings from the book below.]]></summary></entry></feed>
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Human Psychology" /><category term="Lifehacks" /><summary type="html"><![CDATA[I recently delved into Robert Greene’s influential book, 48 Laws of Power. While the overarching theme might not have immediately resonated with me, the intricate laws it presents have undeniably played a role in shaping power dynamics around me, knowingly or unknowingly. The book, a compilation of historical anecdotes, sheds light on how individuals have employed these laws to secure power. Below, I’ve distilled the first 24 laws into brief sentences. Throughout, I’ve used the term “enemy” interchangeably with counterparts, competitors, or opponents.]]></summary></entry></feed>
