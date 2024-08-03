@@ -389,6 +389,10 @@
 <lastmod>2024-06-30T09:20:55+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/thinking-in-systems/</loc>
+<lastmod>2024-08-03T09:20:55+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/posts/</loc>
 </url>
 <url>
@@ -423,6 +427,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/bookreviews/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/posts/page2/</loc>
