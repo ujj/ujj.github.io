@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-27T12:40:36+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">Let the Kids Roam</title><link href="http://localhost:4000/let-the-kids-roam/" rel="alternate" type="text/html" title="Let the Kids Roam" /><published>2025-08-27T09:20:55+05:30</published><updated>2025-08-27T09:20:55+05:30</updated><id>http://localhost:4000/let-the-kids-roam</id><content type="html" xml:base="http://localhost:4000/let-the-kids-roam/"><![CDATA[<h2 id="childhood-rewritten">Childhood, Rewritten</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-04T12:43:36+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Infermuse</title><subtitle>Practical wisdom from studies, experiments and books</subtitle><entry><title type="html">Calling Bullshit: A Spotter’s Guide, Part Two</title><link href="http://localhost:4000/notes-from-calling-bs/" rel="alternate" type="text/html" title="Calling Bullshit: A Spotter’s Guide, Part Two" /><published>2025-10-04T11:20:55+05:30</published><updated>2025-10-04T11:20:55+05:30</updated><id>http://localhost:4000/notes-from-calling-bs</id><content type="html" xml:base="http://localhost:4000/notes-from-calling-bs/"><![CDATA[<p>A while back I wrote about some <a href="https://www.infermuse.com/bs-detection-101/">simple tools to detect bullshit</a>. That post was about broad cues like when numbers get too complicated, or when someone “looks the part” but isn’t saying much. Since then I picked up <em>Calling Bullshit</em> by Carl Bergstrom and Jevin West, a book that digs deeper into how data and statistics are often twisted to tell the wrong story.</p>
+
+<p>Think of this as part two. If the first post was about sharpening your gut, this one is about sharpening your eye for how data is used. Here are a few of my favorite takeaways.</p>
+
+<h3 id="1-average-or-median">1. Average or Median?</h3>
+
+<p>Whenever you hear “average” be cautious. Tax cuts, for example, are often sold as saving families an average of 4000 dollars. In reality, the middle income family might get nothing while a tiny group at the top saves hundreds of thousands. The median is almost always the better metric because it tells you what the typical person experiences.</p>
+
+<p>Whenever you see “average” ask yourself if median would tell a different story.</p>
+
+<h3 id="2-percentages-gone-wrong">2. Percentages Gone Wrong</h3>
+
+<p>Percentages sound precise but they can be quietly rigged by the choice of denominator. A Wisconsin governor once claimed 50 percent job growth in his state. The trick was that most states were actually losing jobs. By mixing shrinking and growing states into the denominator, the percentage was inflated beyond recognition.</p>
+
+<p>Percentages can lie if the baseline is stacked. Always check what the denominator really is.</p>
+
+<h3 id="3-correlation-vs-causation">3. Correlation vs Causation</h3>
+
+<p>This one never gets old. Housing prices were once found to move in step with fertility rates. Does that mean people have fewer kids because homes get expensive, or because when fewer kids are born demand for houses drops? Or is it just a fluke that disappears on the next test? Many correlations are just stories waiting to be told.</p>
+
+<p>A neat chart does not prove a cause. Always ask if the relationship makes sense and if it holds up over time.</p>
+
+<h3 id="4-when-measures-become-targets">4. When Measures Become Targets</h3>
+
+<p>Goodhart’s Law says that once a measure becomes a target it ceases to be a good measure. Schools that teach to the test, raise scores without raising learning. Researchers who chase citations, inflate numbers without adding knowledge. Once you put a number on a pedestal, people will game it.</p>
+
+<p>Don’t just look at what is being measured. Ask how people’s behavior might change once they know they are being measured.</p>
+
+<h3 id="5-selection-bias-and-experienced-averages">5. Selection Bias and Experienced Averages</h3>
+
+<p>Insurance ads promise that people who switch, save a certain amount. Of course they do, because only people who could save, bother to switch. That’s selection bias.</p>
+
+<p><img class="img-fluid" src="/wp-content/uploads/2025/10/misleading_chart.jpeg" alt="Cherry picked data to show a misleading story" srcset="    /assets/resized/misleading_chart-320x137.jpeg 320w,    /assets/resized/misleading_chart-480x206.jpeg 480w,    /assets/resized/misleading_chart-800x343.jpeg 800w, /wp-content/uploads/2025/10/misleading_chart.jpeg 2048w" /></p>
+
+<p>Another clever twist is the gap between announced averages and experienced ones. A school may say its average class size is 50 but if a few giant classes exist, the <em>experienced</em> student average might be 140. That is the number that actually matters to the people inside the system.</p>
+
+<p>Always check if the data includes the people who could not or did not switch and whether the average is the one actually experienced.</p>
+
+<h3 id="6-strategies-to-refute-bs">6. Strategies to Refute BS</h3>
+
+<p>The book ends with something I found quite interesting. Spotting is good, but refuting is better.</p>
+
+<ul>
+  <li>Redraw charts to reveal what’s hidden - e.g. replot tax cuts using median instead of average to show who actually benefits</li>
+  <li>Offer a counter example to break a claim - if someone says ‘screen time always harms kids’ point to cases where online learning helped them thrive</li>
+  <li>Use analogies to show why a claim does not hold up - compare a ‘new batter not improving team average’ to a ‘new highway not improving commute time’</li>
+  <li>Keep arguments simple, especially when identity is tied to belief - instead of jargon, explain in plain language why a claim is shaky</li>
+  <li>Fill the knowledge gap, otherwise the old myth comes back - if you debunk a false cure, explain what treatments actually work</li>
+</ul>
+
+<p>The biggest lesson from both posts is that bullshit thrives in complexity. The more tangled the numbers, the easier it is to mislead but with a few simple checks, you can cut through the fog. As Bergstrom and West remind us, calling bullshit is not a party trick, it is a moral imperative. Start with yourself, question your own blind spots and then help others see more clearly.</p>
+
+<hr />
+
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Lifehacks" /><summary type="html"><![CDATA[Notes and reflections from 'Calling Bullshit]]></summary></entry><entry><title type="html">Let the Kids Roam</title><link href="http://localhost:4000/let-the-kids-roam/" rel="alternate" type="text/html" title="Let the Kids Roam" /><published>2025-08-27T09:20:55+05:30</published><updated>2025-08-27T09:20:55+05:30</updated><id>http://localhost:4000/let-the-kids-roam</id><content type="html" xml:base="http://localhost:4000/let-the-kids-roam/"><![CDATA[<h2 id="childhood-rewritten">Childhood, Rewritten</h2>
 
 <p>Childhood today feels unrecognizable. Parks are quieter, neighborhoods emptier, but screens glow all day. Over the last decade, we’ve made the real world safer and the online world a free-for-all. What we ended up with is a generation that’s physically protected but emotionally fragile.</p>
 
@@ -491,50 +545,4 @@ Neil Gaiman’s writing shed</p>
 
 <hr />
 
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Human Psychology" /><category term="Lifehacks" /><summary type="html"><![CDATA[Rationality may not be the prized possession we think it is.]]></summary></entry><entry><title type="html">The six step decision making process</title><link href="http://localhost:4000/6-step-decision-making-process/" rel="alternate" type="text/html" title="The six step decision making process" /><published>2024-01-13T10:12:27+05:30</published><updated>2024-01-13T10:12:27+05:30</updated><id>http://localhost:4000/6-step-decision-making-process</id><content type="html" xml:base="http://localhost:4000/6-step-decision-making-process/"><![CDATA[<p>‘How to decide’ by Annie Duke is a wholly practical book that helps you make better decisions. It comes with a unique set of tools and exercises that you can do while you’re reading it to imbibe the concepts better. This and her previous book, Thinking in bets, are highly recommended if you’re interested in honing your decision making skills. In this post, I will talk about the six step decision making process she describes. This method is in stark contrast with the flat pros and cons list that we’re used to. The six step decision making process is a living framework that grows with your decisions and helps you better understand the complexity of life.</p>
-
-<p>Before talking about the process, it makes sense to lay the foundation of how decisions should be evaluated. The quality of the decisions have to be evaluated on the basis of the process that led to it. Hindsight bias is when we twist the reality of past events to match our present outcomes and making it appear like it was inevitable. This is also called memory creep when what we know after the fact creeps into the knowledge we had before the fact. Be wary of “I told you so”, “I should’ve known” or “I knew it all along”. These are indications of hindsight bias. This also applies to evaluating a decision someone else has made. Taking the time to figure out what was and was not known at the time of the decision is also empathetic.</p>
-
-<p>Now let’s jump into the decision making process. The decision making process is driven by 3 Ps - Preferences, Payoffs and Probabilities. We employee these 3Ps in the various steps, helping us navigate the decision making process.</p>
-
-<h3 id="step-1-identitying-the-outcomes">Step 1: Identitying the outcomes</h3>
-
-<p>The first step in the decision making process is to identify the possible outcomes and draw a kind of decision tree. In this tree each node is a decision and out of which different outcomes span out and then each of those becomes a sort of timeline. From each decision a separate timeline can emerge more, leading to a decision multiverse (think Avengers Endgame).</p>
-
-<p>Your reality is a function of all the decisions and their outcomes but you live only one timeline but it could have played out in so many different ways. The decision multiverse can help you visualise different decisions playing out differently and help put into perspective our one reality amongst all the possible ones. The key is to start writing down possible decisions, their outcomes and the timelines that emerge from them.</p>
-
-<h3 id="step-2-identifying-the-preferences">Step 2: Identifying the preferences</h3>
-
-<p>In the decision tree you’ve got in the previous step, we start assigning preferences based on the payoffs expected from each decision. Having a clear understanding of the payoffs is important to make a good decision. The payoffs can be monetary or non-monetary. For example, if you’re deciding whether to take a job or not, the payoffs could be monetary (salary, bonus, stock options) or non-monetary (work-life balance, learning opportunities, commute time). The payoffs can be positive or negative. For example, if you’re deciding whether to take a job or not, the payoffs could be positive (salary, bonus, stock options) or negative (work-life balance, learning opportunities, commute time). Once you’ve marked which outcomes are preferred, we move to the next step.</p>
-
-<h3 id="step-3-identifying-the-probabilities">Step 3: Identifying the probabilities</h3>
-
-<p>Estimate the likelihood of each outcome by making an educated guess. It is important to note that almost none of our decisions are made with complete information. The probabilities can be subjective or objective. For example, if you’re deciding whether to take a job or not, the probabilities could be subjective (how much you like the company, how much you like the work) or objective (how much you’ll be paid, how much you’ll learn). Trying to make an educated guess also motivates you to to learn more.</p>
-
-<p><img class="img-fluid" src="/wp-content/uploads/2024/01/decision_likelihood.jpg" alt="Estimating the outcome probabilities" srcset="    /assets/resized/decision_likelihood-320x145.jpg 320w,    /assets/resized/decision_likelihood-480x217.jpg 480w,    /assets/resized/decision_likelihood-800x361.jpg 800w, /wp-content/uploads/2024/01/decision_likelihood.jpg 1142w" /></p>
-
-<p>It is important to not fall into the trap of overconfidence that comes with an inside view. The inside view is our limited view of the world, sort of ‘what you see is all there is’ notion. The outside view is the view of the world that takes into account the base rates and the historical data. With the outside view you’re trying to get to the more accurate view of the world by asking “what usually happens in scenarios similar to this” in an unbiased manner after taking some much needed psychological distance.</p>
-
-<p>It also helps to understand that most decisions in life are not 0-1. A good analogy is to think of decision making as a game of darts or archery, you don’t just win points when you hit a bullseye, i.e. get the decision bang on, you also win points when you don’t. Life is closer to a game of darts, than, say, tailing the donkey, where the margin for error is ~0.</p>
-
-<h3 id="step-4-estimate-relative-likelihoods">Step 4: Estimate relative likelihoods</h3>
-
-<p>Estimate the relative likelihood of the outcomes you like vs those you dislike. This step helps you assess if your upside is comparable to the downside. Risk is basically just this, an estimate of your exposure to the downside. This estimation should be a probability range of upper and lower bounds that is based on a reasonable idea of the knowledge you have (and shouldn’t be a broad value that is bound to be right like -inf to +inf).</p>
-
-<p>Assessing risk is also a great way to speed up decision making. The time you spend deciding should depend upon the impact of the decision. We spent an inordinate amount of time thinking about what to eat, wear or watch when in reality these decisions don’t affect our happiness or well being much more than say a few hours. Don’t fret over such decisions that have limited downsides (the author calls these ‘free rolls’). Ask yourself “what’s the worst that could happen?” and if that worst something is something you can live with, consider this a free roll. Decisions in which the different options have more or less the same downside upside asymmetry, don’t need much analysis.</p>
-
-<h3 id="step-5-repeat-steps-1-4">Step 5: Repeat steps 1-4</h3>
-
-<p>Repeat steps 1-4 for each decision in the decision tree. This helps you compare the different decisions and their outcomes. Once you start writing down the decisions and extending your decision tree with the various outcomes and their probabilities, you’ll start to see complexity of life in a completely new light. You’ll start to see how the decisions you make today can have a cascading effect on your future. This is a great way to start thinking about the future and how you can make it better.</p>
-
-<h3 id="step-6-comparing-the-various-options">Step 6: Comparing the various options</h3>
-
-<p>Now that you’ve got the decision tree with the various outcomes and their probabilities, you can start comparing the various options. In reality what you’re trying to achieve is draw a map that gets you to your goals and helps you visualise the various paths and obstacles in your way. Once you get used to seeing things this way, not doing this exercise would appear like you’re flying blind.</p>
-
-<p><img class="img-fluid" src="/wp-content/uploads/2024/01/new_information.jpg" alt="Changing your decision basis new information" srcset="    /assets/resized/new_information-320x132.jpg 320w,    /assets/resized/new_information-480x198.jpg 480w,    /assets/resized/new_information-800x331.jpg 800w, /wp-content/uploads/2024/01/new_information.jpg 1306w" /></p>
-
-<p>The final step for every decision is to question yourself if there’s any new piece of information that you can get that can change your decision. If not, you can go ahead and make the decision. If yes, you should make every effort to get that information. This is called the ‘premortem’ and is a great way to avoid the ‘I knew it all along’ hindsight bias.</p>
-
-<hr />
-
-<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Business" /><category term="Lifehacks" /><category term="Human Psychology" /><summary type="html"><![CDATA[‘How to decide’ by Annie Duke is a wholly practical book that helps you make better decisions. It comes with a unique set of tools and exercises that you can do while you’re reading it to imbibe the concepts better. This and her previous book, Thinking in bets, are highly recommended if you’re interested in honing your decision making skills. In this post, I will talk about the six step decision making process she describes. This method is in stark contrast with the flat pros and cons list that we’re used to. The six step decision making process is a living framework that grows with your decisions and helps you better understand the complexity of life.]]></summary></entry></feed>
+<p>I run a startup called <a href="http://www.harmonizehq.com/">Harmonize</a>. We are hiring and if you’re looking for an exciting startup journey, please write to jobs@harmonizehq.com. Apart from this blog, <a href="https://twitter.com/dillisingh">I tweet </a>about startup life and practical wisdom in books.</p>]]></content><author><name>Ujjwal</name></author><category term="Human Psychology" /><category term="Lifehacks" /><summary type="html"><![CDATA[Rationality may not be the prized possession we think it is.]]></summary></entry></feed>
